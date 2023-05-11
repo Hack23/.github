@@ -1,6 +1,6 @@
 # Hack23
 
-Welcome to the Hack23 organization! This organization is dedicated to the development of secure open-source software applications and tools. Our mission is to create innovative solutions that promote transparency, enhance decision-making, and empower individuals and organizations.
+Welcome to the Hack23 organization! This organization is dedicated to the development of secure open-source software applications and tools. 
 
 ## About Hack23
 
