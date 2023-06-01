@@ -20,6 +20,8 @@ Citizen Intelligence Agency is a volunteer-driven, open-source intelligence (OSI
   - [World Bank Open Data](https://data.worldbank.org/)
   - [Swedish National Financial Management Authority (ESV) Public Sector Information (PSI) Data](https://www.esv.se/)
 
+Explore our [Citizen Intelligence Agency's Architecture Overview](https://hack23.github.io/cia/architecture.html), where you can dive into the detailed structure of our project. This page provides a comprehensive look at our project's system context, its various components, and the deployment strategy. It also includes guides for developers and database administrators, making it a valuable resource for understanding the mechanics of our work.
+
 ### Sonar-CloudFormation-Plugin
 
 Sonar-CloudFormation-Plugin is a plugin for SonarQube that allows users to analyze CloudFormation templates written in YAML or JSON. Developed in Java, the plugin uses the SonarQube API to perform code analysis on the templates and generate detailed reports on best practices, potential security issues, and other code quality metrics. It integrates with cfn-nag and Checkov to provide additional security checks based on the CWE, NIST 800-53, and ISO 27001 standards.
