@@ -1,14 +1,10 @@
-# Hack23
-
-Welcome to the Hack23 organization! This organization is dedicated to the development of secure open-source software applications and tools.
-
 ## Welcome to Hack23! 👋
 
 We are an organization dedicated to the development of secure open-source software applications and tools. Our mission is to enhance transparency and security in the digital world.
 
 ## About Hack23 ℹ️
 
-Hack23 is led by [James Pether Sörling](https://www.linkedin.com/in/jamessorling/), an experienced technology professional with expertise in information security and delivery of secure cloud systems. He is a strong advocate for transparency in organizations and is committed to ensuring the security and reliability of our open-source projects through the use of industry best practices such as OpenSSF and CII Best Practices.
+Hack23 is led by [James Pether Sörling](https://www.linkedin.com/in/jamessorling/), an experienced technology professional with expertise in information security and delivery of secure cloud systems. He is a strong advocate for transparency in organizations and is committed to ensuring the security and reliability of our open-source projects through the use of industry best practices such as [OpenSSF](https://openssf.org/) and [CII Best Practices](https://bestpractices.coreinfrastructure.org/).
 
 James has given talks at various forums, including [Javaforum Göteborg](https://www.youtube.com/watch?v=A_hq2Y03d6I), where he discussed how to secure your development pipeline with static and dynamic application security tests, as well as software composition analysis using Sonarqube. He was also a guest on the [Shift Left Like A Boss](https://www.youtube.com/watch?v=aYwSd1Wu28Q&ab_channel=Soluble/) security podcast, where he discussed open-source tools that can make high-velocity development more secure.
 
@@ -42,7 +38,7 @@ Explore our [Citizen Intelligence Agency's Architecture Overview](https://github
 
 ### [Sonar-CloudFormation-Plugin](https://github.com/Hack23/sonar-cloudformation-plugin)
 
-The Sonar-CloudFormation-Plugin is a plugin for SonarQube that allows users to analyze CloudFormation templates written in YAML or JSON. The plugin uses the SonarQube API to perform code analysis on the templates and generate detailed reports on best practices, potential security issues, and other code quality metrics. The plugin integrates with cfn-nag and Checkov to provide additional security checks based on the CWE, NIST 800-53, and ISO 27001 standards.
+The Sonar-CloudFormation-Plugin is a plugin for [SonarQube](https://www.sonarqube.org/) that allows users to analyze [CloudFormation](https://aws.amazon.com/cloudformation/) templates written in YAML or JSON. The plugin uses the SonarQube API to perform code analysis on the templates and generate detailed reports on best practices, potential security issues, and other code quality metrics. The plugin integrates with [cfn-nag](https://github.com/stelligent/cfn_nag) and [Checkov](https://www.checkov.io/) to provide additional security checks based on the [CWE](https://cwe.mitre.org/), [NIST 800-53](https://www.nist.gov/), and [ISO 27001](https://www.iso.org/standard/54534.html) standards.
 
 ### [Lambda in Private VPC](https://github.com/Hack23/aws-lambda-in-private-vpc)
 
