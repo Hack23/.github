@@ -44,6 +44,15 @@ The Sonar-CloudFormation-Plugin is a plugin for [SonarQube](https://www.sonarqub
 
 The Lambda in Private VPC is a proof-of-concept (POC) showcasing a multi-region active/active site leveraging Resilience Hub policy compliance and runbooks to facilitate rapid recovery from failures.
 
+Concepts:
+Learn more about AWS Resilience Hub concepts and understand the key terms and principles involved in building resilient applications [here](https://docs.aws.amazon.com/resilience-hub/latest/userguide/concepts-terms.html).
+
+Runbooks:
+- [DynamoDB Runbook](https://docs.aws.amazon.com/systems-manager-automation-runbooks/latest/userguide/automation-ref-ddb.html) - Automates the management of DynamoDB tables and indexes.
+- [Lambda Runbook](https://docs.aws.amazon.com/systems-manager-automation-runbooks/latest/userguide/automation-ref-lam.html) - Helps manage Lambda functions, layers, and aliases.
+- [Application Bridge Runbook](https://docs.aws.amazon.com/systems-manager-automation-runbooks/latest/userguide/automation-ref-abp.html) - Supports management of Amazon App Runner services and custom domains.
+- [IAM Runbook](https://docs.aws.amazon.com/systems-manager-automation-runbooks/latest/userguide/automation-ref-iam.html) - Facilitates IAM user, group, role, and policy managem
+
 ## Get Involved 
 
 We welcome contributions from the community! If you're interested in contributing, check out our repositories and feel free to submit issues or pull requests. Let's work together to make the digital world more secure and transparent!
