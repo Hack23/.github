@@ -40,7 +40,7 @@ Explore our [Citizen Intelligence Agency's Architecture Overview](https://github
 
 The Sonar-CloudFormation-Plugin is a plugin for [SonarQube](https://www.sonarqube.org/) that allows users to analyze [CloudFormation](https://aws.amazon.com/cloudformation/) templates written in YAML or JSON. The plugin uses the SonarQube API to perform code analysis on the templates and generate detailed reports on best practices, potential security issues, and other code quality metrics. The plugin integrates with [cfn-nag](https://github.com/stelligent/cfn_nag) and [Checkov](https://www.checkov.io/) to provide additional security checks based on the [CWE](https://cwe.mitre.org/), [NIST 800-53](https://www.nist.gov/), and [ISO 27001](https://www.iso.org/standard/54534.html) standards.
 
-### [Lambda in Private VPC](https://github.com/Hack23/aws-lambda-in-private-vpc)
+### [Lambda in Private VPC](https://github.com/Hack23/lambda-in-private-vpc)
 
 The Lambda in Private VPC is a proof-of-concept (POC) showcasing a multi-region active/active site leveraging Resilience Hub policy compliance and runbooks to facilitate rapid recovery from failures.
 
