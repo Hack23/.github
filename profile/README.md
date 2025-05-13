@@ -53,7 +53,7 @@
 <table>
   <tr>
     <td width="120" align="center">
-      <img src="https://hack23.github.io/cia/images/logo.png" width="80" height="80" alt="CIA Logo"/>
+      <img src="https://github.com/Hack23/cia/blob/master/citizen-intelligence-agency/src/main/webapp/VAADIN/themes/cia/cia-logo.png?raw=true" width="80" height="80" alt="CIA Logo"/>
       <div>
         <a href="https://github.com/Hack23/cia">
           <img src="https://img.shields.io/github/v/release/Hack23/cia" alt="Release">
