@@ -2,7 +2,6 @@
 
 <div align="center">
   <a href="https://hack23.com">
-    <img src="https://hack23.github.io/cia-compliance-manager/icon-192.png" alt="Hack23 Logo" width="120" height="120">
   </a>
   <h3>Advanced Open Source Security Assessment Tools, Compliance Management, and Transparency Platforms</h3>
   <h4>By James Pether Sörling</h4>
