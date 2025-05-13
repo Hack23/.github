@@ -12,67 +12,6 @@
   </p>
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-```mermaid
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'primaryColor': '#a0c8e0',
-      'primaryTextColor': '#1a1a1a',
-      'primaryBorderColor': '#7B1FA2',
-      'lineColor': '#7B1FA2',
-      'secondaryColor': '#006064',
-      'tertiaryColor': '#fff'
-    }
-  }
-}%%
-flowchart TD
-    classDef confidentiality fill:#8e44ad,stroke:#6c3483,stroke-width:2px,color:white;
-    classDef integrity fill:#27ae60,stroke:#1e8449,stroke-width:2px,color:white;
-    classDef availability fill:#2980b9,stroke:#1f618d,stroke-width:2px,color:white;
-    classDef tools fill:#e67e22,stroke:#d35400,stroke-width:2px,color:white;
-    
-    HACK23["🔒 Hack23<br>Open Source Security"]
-    
-    HACK23 --> CIA["🔐 CIA Compliance Manager<br>(Security Assessment)"]
-    HACK23 --> CIT["🔍 Citizen Intelligence Agency<br>(Political Transparency)"]
-    HACK23 --> LAMBDA["☁️ Lambda in Private VPC<br>(AWS Architecture)"]
-    HACK23 --> SONAR["🧪 Sonar-CloudFormation-Plugin<br>(IaC Security Analysis)"]
-    
-    CIA --> CIA_1["🔒 Confidentiality<br>Data Protection"]
-    CIA --> CIA_2["🔄 Integrity<br>Data Validation"]
-    CIA --> CIA_3["⚡ Availability<br>Service Uptime"]
-    
-    CIT --> CIT_1["🏛️ Political<br>Monitoring"]
-    CIT --> CIT_2["📊 Performance<br>Analytics"]
-    CIT --> CIT_3["🗳️ Decision<br>Transparency"]
-    
-    LAMBDA --> LAMBDA_1["🌐 Multi-Region<br>Active/Active"]
-    LAMBDA --> LAMBDA_2["🛡️ Mission-Critical<br>Resilience"] 
-    LAMBDA --> LAMBDA_3["🔐 Private VPC<br>Security"]
-    
-    SONAR --> SONAR_1["🔍 CloudFormation<br>Static Analysis"]
-    SONAR --> SONAR_2["🛡️ Security<br>Rule Engine"]
-    SONAR --> SONAR_3["📊 Quality<br>Visualization"]
-    
-    class CIA confidentiality;
-    class CIA_1,CIA_2,CIA_3 confidentiality;
-    
-    class CIT integrity;
-    class CIT_1,CIT_2,CIT_3 integrity;
-    
-    class LAMBDA availability;
-    class LAMBDA_1,LAMBDA_2,LAMBDA_3 availability;
-    
-    class SONAR tools;
-    class SONAR_1,SONAR_2,SONAR_3 tools;
-```
-
-</div>
 
 ### 🔐 CIA Compliance Manager
 
