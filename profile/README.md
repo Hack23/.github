@@ -66,7 +66,7 @@
         <a href="https://bestpractices.coreinfrastructure.org/projects/770">
           <img src="https://bestpractices.coreinfrastructure.org/projects/770/badge" alt="CII Best Practices">
         </a>
-        <a href="https://slsa.dev/spec/v1.0/levels">
+        <a href="[https://slsa.dev/spec/v1.0/levels](https://github.com/Hack23/cia/attestations)">
           <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
         </a>
         <a href="https://sonarcloud.io/summary/new_code?id=Hack23_cia">
