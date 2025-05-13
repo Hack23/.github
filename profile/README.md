@@ -1,10 +1,8 @@
 # 🔒 Hack23 - Open Source Security & Compliance Tools
 
 <div align="center">
-  <a href="https://hack23.com">
+  <a href="https://hack23.com">https://hack23.com
   </a>
-  <h3>Advanced Open Source Security Assessment Tools, Compliance Management, and Transparency Platforms</h3>
-  <h4>By James Pether Sörling</h4>
   
   <p>
     <a href="https://hack23.com"><img src="https://img.shields.io/badge/Website-hack23.com-00cc66?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/></a>
