@@ -12,6 +12,36 @@
   </p>
 </div>
 
+# 🔥 Black Trigram (흑괘)
+
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://blacktrigram.com/black-trigram-256.png" width="80" height="80" alt="Black Trigram Logo"/>
+      <div>
+        <a href="https://github.com/Hack23/blacktrigram">
+          <img src="https://img.shields.io/github/v/release/Hack23/blacktrigram" alt="Release">
+        </a>
+      </div>
+    </td>
+    <td>
+      <p><strong>Realistic 2D precision combat simulator</strong> inspired by traditional Korean martial arts, focusing on precise anatomical targeting, authentic combat techniques, and detailed physics-based interactions.</p>
+      <div>
+        <a href="https://github.com/Hack23/blacktrigram/raw/master/LICENSE.md">
+          <img src="https://img.shields.io/github/license/Hack23/blacktrigram.svg" alt="License">
+        </a>
+        <a href="https://blacktrigram.com">
+          <img src="https://img.shields.io/website?url=https://blacktrigram.com" alt="Website Status">
+        </a>
+      </div>
+      <div>
+        <a href="https://blacktrigram.com"><strong>🌐 Official Website</strong></a> •
+        <a href="https://github.com/Hack23/blacktrigram"><strong>📂 Repository</strong></a> •
+        <a href="https://hack23.com/black-trigram-docs.html"><strong>📚 Documentation</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ### 🔐 CIA Compliance Manager
 
