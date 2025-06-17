@@ -1,4 +1,4 @@
-# 🔒 Hack23 - Open Source Security & Compliance Tools
+# 🔒 Hack23 AB- Swedish innovation hub specializing in creating immersive and precise game experiences alongside expert cybersecurity consulting and solutions.
 
 <div align="center">
   <a href="https://hack23.com">https://hack23.com
