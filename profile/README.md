@@ -2,8 +2,7 @@
 ### Swedish innovation hub specializing in creating immersive and precise game experiences alongside expert cybersecurity consulting and solutions.
 
 <div align="center">
-  <a href="https://hack23.com">https://hack23.com
-  </a>
+  <a href="https://hack23.com">https://hack23.com</a>
   
   <p>
     <a href="https://hack23.com"><img src="https://img.shields.io/badge/Website-hack23.com-00cc66?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/></a>
