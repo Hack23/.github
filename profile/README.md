@@ -42,6 +42,7 @@
     </td>
   </tr>
 </table>
+
 [![GitHub Release](https://img.shields.io/github/v/release/Hack23/blacktrigram)](https://github.com/Hack23/blacktrigram/releases)
 [![License](https://img.shields.io/github/license/Hack23/blacktrigram.svg)](https://github.com/Hack23/blacktrigram/blob/main/LICENSE)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/blacktrigram/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/blacktrigram)
