@@ -447,74 +447,49 @@ Three decades of hands-on experience in software development and security archit
 <div align="center">
 
 ```mermaid
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'primaryColor': '#d1c4e9',
-      'primaryTextColor': '#1a1a1a',
-      'primaryBorderColor': '#9575cd',
-      'lineColor': '#9575cd',
-      'secondaryColor': '#c8e6c9',
-      'tertiaryColor': '#bbdefb'
-    }
-  }
-}%%
 mindmap
-  root((CIA Triad<br>Security Focus))
-    Confidentiality
-      ::icon(fa fa-lock)
-      Data Classification
-        ::icon(fa fa-tag)
-        Public
-        Restricted
-        Confidential
-        Secret
-      Access Control
-        ::icon(fa fa-shield)
-        RBAC Implementation
-        MFA Integration
-        Least Privilege
-      Encryption
-        ::icon(fa fa-key)
-        AES-256
-        Quantum-Safe Encryption
-        KMS Integration
-    Integrity
-      ::icon(fa fa-check-circle)
-      Data Validation
-        ::icon(fa fa-check)
-        Manual Checks
-        Automated Validation
-        Blockchain Records
-      Change Control
-        ::icon(fa fa-history)
-        Audit Trails
-        Versioning
-        Non-Repudiation
-      Quality Assurance
-        ::icon(fa fa-certificate)
-        Code Analysis
-        Test Coverage
-        SLSA Level 3
-    Availability
-      ::icon(fa fa-clock-o)
-      Resilience Levels
-        ::icon(fa fa-line-chart)
-        Backup/Restore
-        Pilot Light
-        Warm Standby
-        Multi-Site Active/Active
-      Recovery Metrics
-        ::icon(fa fa-tachometer)
-        RTO Targets
-        RPO Objectives
-        Uptime SLAs
-      Monitoring
-        ::icon(fa fa-eye)
-        Health Checks
-        Alerting
-        Chaos Testing
+  root((🔐 CIA Triad<br>Security Focus))
+    🔒 Confidentiality
+      🏷️ Data Classification
+        🌐 Public
+        🛡️ Restricted
+        🗝️ Confidential
+        🔒 Secret
+      🚪 Access Control
+        👥 RBAC Implementation
+        🔑 MFA Integration
+        📉 Least Privilege
+      🔑 Encryption
+        🧬 AES-256
+        🧿 Quantum-Safe Encryption
+        🗝️ KMS Integration
+    ✔️ Integrity
+      🧪 Data Validation
+        👁️ Manual Checks
+        🤖 Automated Validation
+        🔗 Blockchain Records
+      🔄 Change Control
+        📝 Audit Trails
+        ♻️ Versioning
+        🛡️ Non-Repudiation
+      🏆 Quality Assurance
+        🧑‍💻 Code Analysis
+        🧩 Test Coverage
+        🏅 SLSA Level 3
+    ⏰ Availability
+      🛡️ Resilience Levels
+        💾 Backup/Restore
+        🔥 Pilot Light
+        ♨️ Warm Standby
+        🌐 Multi-Site Active/Active
+      📊 Recovery Metrics
+        🕑 RTO Targets
+        ⏳ RPO Objectives
+        📈 Uptime SLAs
+      👀 Monitoring
+        ❤️ Health Checks
+        🚨 Alerting
+        💥 Chaos Testing
 ```
 
 </div>
