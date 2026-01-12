@@ -132,7 +132,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 <table>
   <tr>
     <td width="120" align="center">
-      <img src="https://ciacompliancemanager.com/icon-192.png" width="80" height="80" alt="CIA Compliance Manager Logo"/>
+      <img src="https://hack23.com/icon-192.png" width="80" height="80" alt="CIA Compliance Manager Logo"/>
       <div>
         <a href="https://github.com/Hack23/cia-compliance-manager">
           <img src="https://img.shields.io/github/v/release/Hack23/cia-compliance-manager" alt="Release">
