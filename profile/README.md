@@ -288,6 +288,84 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin/badge)](https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin)
 
 
+### 🗳️ Riksdagsmonitor
+
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://img.shields.io/badge/Riksdag-Monitor-00338D?style=for-the-badge&logo=swedish&logoColor=FECC00" width="80" alt="Riksdagsmonitor"/>
+      <div>
+        <a href="https://riksdagsmonitor.com">
+          <img src="https://img.shields.io/website?url=https://riksdagsmonitor.com" alt="Website Status">
+        </a>
+      </div>
+    </td>
+    <td>
+      <p><strong>Swedish Parliament Intelligence Platform</strong> monitoring political activity in Sweden's Riksdag with systematic transparency through real-time analysis and 50+ years of historical data (1971-2024).</p>
+      <div>
+        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/riksdagsmonitor">
+          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/riksdagsmonitor/badge" alt="OpenSSF Scorecard">
+        </a>
+        <a href="https://github.com/Hack23/riksdagsmonitor/actions/workflows/quality-checks.yml">
+          <img src="https://github.com/Hack23/riksdagsmonitor/actions/workflows/quality-checks.yml/badge.svg" alt="Quality Checks">
+        </a>
+        <a href="https://github.com/Hack23/riksdagsmonitor/license">
+          <img src="https://img.shields.io/github/license/Hack23/riksdagsmonitor" alt="License">
+        </a>
+      </div>
+      <div>
+        <a href="https://riksdagsmonitor.com"><strong>🌐 Official Website</strong></a> •
+        <a href="https://github.com/Hack23/riksdagsmonitor"><strong>📂 Repository</strong></a> •
+        <a href="https://github.com/Hack23/ISMS-PUBLIC"><strong>🔒 ISMS</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/riksdagsmonitor/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/riksdagsmonitor)
+[![Quality Checks](https://github.com/Hack23/riksdagsmonitor/actions/workflows/quality-checks.yml/badge.svg)](https://github.com/Hack23/riksdagsmonitor/actions/workflows/quality-checks.yml)
+[![Dependency Review](https://github.com/Hack23/riksdagsmonitor/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/Hack23/riksdagsmonitor/actions/workflows/dependency-review.yml)
+[![License](https://img.shields.io/github/license/Hack23/riksdagsmonitor)](https://github.com/Hack23/riksdagsmonitor/blob/main/LICENSE)
+[![ISMS](https://img.shields.io/badge/Hack23-ISMS-blue)](https://github.com/Hack23/ISMS-PUBLIC)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/riksdagsmonitor)
+
+
+### 🎮 Game Template
+
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://img.shields.io/badge/React-Three.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" width="80" alt="Game Template"/>
+      <div>
+        <a href="https://github.com/Hack23/game">
+          <img src="https://img.shields.io/github/v/release/Hack23/game" alt="Release">
+        </a>
+      </div>
+    </td>
+    <td>
+      <p><strong>Secure game development template</strong> with React, TypeScript, Three.js, and Vite - built with security-first principles, comprehensive SBOM generation, and automated security testing aligned with Hack23 AB's ISMS.</p>
+      <div>
+        <a href="https://github.com/Hack23/game/raw/master/LICENSE.md">
+          <img src="https://img.shields.io/github/license/Hack23/game.svg" alt="License">
+        </a>
+        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/game">
+          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/game/badge" alt="OpenSSF Scorecard">
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Hack23/game"><strong>📂 Repository</strong></a> •
+        <a href="https://github.com/Hack23/game#-security-features"><strong>🔒 Security Features</strong></a> •
+        <a href="https://github.com/Hack23/game/blob/master/docs/ISMS_POLICY_MAPPING.md"><strong>📋 ISMS Policy Mapping</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+[![License](https://img.shields.io/github/license/Hack23/game.svg)](https://github.com/Hack23/game/raw/master/LICENSE.md)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/game/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/game)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/game)
+
+
 ## 🔑 Security Services
 
 Professional cybersecurity consulting services delivered remotely or in-person in Gothenburg. Drawing from over three decades of experience in software development and security architecture, we deliver practical security solutions that integrate seamlessly into your development processes without hindering innovation.
@@ -736,6 +814,22 @@ Browser-based compliance and CIA-triad assessment tool with no backend, focused 
 - 📋 **Overview:** https://hack23.com/compliance-manager.html  
 - ⭐ **Features:** https://hack23.com/cia-compliance-manager-features.html  
 - 📚 **Documentation:** https://hack23.com/cia-compliance-manager-docs.html  
+
+#### 🗳️ Riksdagsmonitor
+
+Swedish Parliament Intelligence Platform monitoring political activity in Sweden's Riksdag with systematic transparency through real-time analysis and 50+ years of historical data (1971-2024).
+
+- 🌐 **Official Website:** https://riksdagsmonitor.com  
+- 📂 **Repository:** https://github.com/Hack23/riksdagsmonitor  
+- 🔒 **ISMS:** https://github.com/Hack23/ISMS-PUBLIC  
+
+#### 🎮 Game Template
+
+Secure game development template with React, TypeScript, Three.js, and Vite - built with security-first principles, comprehensive SBOM generation, and automated security testing aligned with Hack23 AB's ISMS.
+
+- 📂 **Repository:** https://github.com/Hack23/game  
+- 🔒 **Security Features:** https://github.com/Hack23/game#-security-features  
+- 📋 **ISMS Policy Mapping:** https://github.com/Hack23/game/blob/master/docs/ISMS_POLICY_MAPPING.md  
 
 ---
 
