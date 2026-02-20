@@ -108,6 +108,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
       <div>
         <a href="https://blacktrigram.com"><strong>🌐 Official Website</strong></a> •
         <a href="https://github.com/Hack23/blacktrigram"><strong>📂 Repository</strong></a> •
+        <a href="https://hack23.com/black-trigram-features.html"><strong>✨ Features</strong></a> •
         <a href="https://hack23.com/black-trigram-docs.html"><strong>📚 Documentation</strong></a>
       </div>
     </td>
@@ -344,7 +345,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
       </div>
     </td>
     <td>
-      <p><strong>European Parliament Intelligence Platform</strong> — automated multi-language news generation monitoring EU Parliament activities with 14-language support, covering plenary sessions, committee reports, propositions, and breaking news.</p>
+      <p><strong>European Parliament Intelligence Platform</strong> — an automated multi-language news platform that monitors EU Parliament activities with 14-language support, covering plenary sessions, committee reports, propositions, and breaking news.</p>
       <div>
         <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/euparliamentmonitor">
           <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/euparliamentmonitor/badge" alt="OpenSSF Scorecard">
@@ -394,7 +395,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
         <a href="https://github.com/Hack23/European-Parliament-MCP-Server/attestations">
           <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
         </a>
-        <a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/LICENSE.md">
+        <a href="https://github.com/Hack23/European-Parliament-MCP-Server/license">
           <img src="https://img.shields.io/github/license/Hack23/European-Parliament-MCP-Server.svg" alt="License">
         </a>
       </div>
