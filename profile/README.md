@@ -108,6 +108,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
       <div>
         <a href="https://blacktrigram.com"><strong>🌐 Official Website</strong></a> •
         <a href="https://github.com/Hack23/blacktrigram"><strong>📂 Repository</strong></a> •
+        <a href="https://hack23.com/black-trigram-features.html"><strong>✨ Features</strong></a> •
         <a href="https://hack23.com/black-trigram-docs.html"><strong>📚 Documentation</strong></a>
       </div>
     </td>
@@ -316,7 +317,8 @@ Explore information security, ISMS policies, and cybersecurity best practices th
       <div>
         <a href="https://riksdagsmonitor.com"><strong>🌐 Official Website</strong></a> •
         <a href="https://github.com/Hack23/riksdagsmonitor"><strong>📂 Repository</strong></a> •
-        <a href="https://github.com/Hack23/ISMS-PUBLIC"><strong>🔒 ISMS</strong></a>
+        <a href="https://hack23.com/riksdagsmonitor-features.html"><strong>✨ Features</strong></a> •
+        <a href="https://hack23.com/riksdagsmonitor-docs.html"><strong>📚 Documentation</strong></a>
       </div>
     </td>
   </tr>
@@ -328,6 +330,91 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 [![License](https://img.shields.io/github/license/Hack23/riksdagsmonitor)](https://github.com/Hack23/riksdagsmonitor/blob/main/LICENSE)
 [![ISMS](https://img.shields.io/badge/Hack23-ISMS-blue)](https://github.com/Hack23/ISMS-PUBLIC)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/riksdagsmonitor)
+
+
+### 🇪🇺 EU Parliament Monitor
+
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://img.shields.io/badge/EU-Parliament-003399?style=for-the-badge&logo=european-union&logoColor=FFCC00" width="80" alt="EU Parliament Monitor"/>
+      <div>
+        <a href="https://github.com/Hack23/euparliamentmonitor">
+          <img src="https://img.shields.io/github/v/release/Hack23/euparliamentmonitor" alt="Release">
+        </a>
+      </div>
+    </td>
+    <td>
+      <p><strong>European Parliament Intelligence Platform</strong> — an automated multi-language news platform that monitors EU Parliament activities with 14-language support, covering plenary sessions, committee reports, propositions, and breaking news.</p>
+      <div>
+        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/euparliamentmonitor">
+          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/euparliamentmonitor/badge" alt="OpenSSF Scorecard">
+        </a>
+        <a href="https://github.com/Hack23/euparliamentmonitor/attestations">
+          <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
+        </a>
+        <a href="https://github.com/Hack23/euparliamentmonitor/license">
+          <img src="https://img.shields.io/github/license/Hack23/euparliamentmonitor" alt="License">
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Hack23/euparliamentmonitor"><strong>📂 Repository</strong></a> •
+        <a href="https://hack23.com/euparliamentmonitor-features.html"><strong>✨ Features</strong></a> •
+        <a href="https://hack23.com/euparliamentmonitor-docs.html"><strong>📚 Documentation</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/euparliamentmonitor/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/euparliamentmonitor)
+[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/euparliamentmonitor/attestations)
+[![News Generation](https://github.com/Hack23/euparliamentmonitor/actions/workflows/news-generation.yml/badge.svg)](https://github.com/Hack23/euparliamentmonitor/actions/workflows/news-generation.yml)
+[![Test and Report](https://github.com/Hack23/euparliamentmonitor/actions/workflows/test-and-report.yml/badge.svg)](https://github.com/Hack23/euparliamentmonitor/actions/workflows/test-and-report.yml)
+[![License](https://img.shields.io/github/license/Hack23/euparliamentmonitor)](https://github.com/Hack23/euparliamentmonitor/blob/main/LICENSE)
+[![ISMS](https://img.shields.io/badge/Hack23-ISMS-blue)](https://github.com/Hack23/ISMS-PUBLIC)
+
+
+### 🔌 European Parliament MCP Server
+
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://img.shields.io/badge/MCP-Server-6366F1?style=for-the-badge&logo=typescript&logoColor=white" width="80" alt="European Parliament MCP Server"/>
+      <div>
+        <a href="https://www.npmjs.com/package/european-parliament-mcp-server">
+          <img src="https://img.shields.io/npm/v/european-parliament-mcp-server.svg" alt="npm version">
+        </a>
+      </div>
+    </td>
+    <td>
+      <p><strong>Model Context Protocol Server for European Parliament Open Data</strong> — providing AI assistants with structured access to MEPs, plenary sessions, committees, legislative documents, and parliamentary questions through a secure, type-safe TypeScript implementation.</p>
+      <div>
+        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/European-Parliament-MCP-Server">
+          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/European-Parliament-MCP-Server/badge" alt="OpenSSF Scorecard">
+        </a>
+        <a href="https://github.com/Hack23/European-Parliament-MCP-Server/attestations">
+          <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
+        </a>
+        <a href="https://github.com/Hack23/European-Parliament-MCP-Server/license">
+          <img src="https://img.shields.io/github/license/Hack23/European-Parliament-MCP-Server.svg" alt="License">
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Hack23/European-Parliament-MCP-Server"><strong>📂 Repository</strong></a> •
+        <a href="https://hack23.com/european-parliament-mcp-features.html"><strong>✨ Features</strong></a> •
+        <a href="https://hack23.com/european-parliament-mcp-docs.html"><strong>📚 Documentation</strong></a> •
+        <a href="https://www.npmjs.com/package/european-parliament-mcp-server"><strong>📦 npm</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/European-Parliament-MCP-Server/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/European-Parliament-MCP-Server)
+[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/European-Parliament-MCP-Server/attestations)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHack23%2FEuropean-Parliament-MCP-Server.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHack23%2FEuropean-Parliament-MCP-Server?ref=badge_shield)
+[![Build Status](https://github.com/Hack23/European-Parliament-MCP-Server/actions/workflows/main.yml/badge.svg)](https://github.com/Hack23/European-Parliament-MCP-Server/actions/workflows/main.yml)
+[![License](https://img.shields.io/github/license/Hack23/European-Parliament-MCP-Server.svg)](https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/LICENSE.md)
+[![ISMS](https://img.shields.io/badge/Hack23-ISMS-blue)](https://github.com/Hack23/ISMS-PUBLIC)
 
 
 ### 🎮 Game Template
@@ -546,6 +633,61 @@ Three decades of hands-on experience in software development and security archit
   </tr>
 </table>
 
+### 🇪🇺 EU Parliament Monitor Documentation
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>Current Architecture</h4>
+      <ul>
+        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/ARCHITECTURE.md">🏛️ System Architecture</a></li>
+        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/SECURITY_ARCHITECTURE.md">🔒 Security Architecture</a></li>
+        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/DATA_MODEL.md">💾 Data Model</a></li>
+        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/FLOWCHART.md">📊 Process Flowcharts</a></li>
+        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/MINDMAP.md">🧠 System Mindmaps</a></li>
+        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/SWOT.md">💼 SWOT Analysis</a></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>Future Vision</h4>
+      <ul>
+        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/FUTURE_ARCHITECTURE.md">🔮 Future Architecture</a></li>
+        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/FUTURE_SECURITY_ARCHITECTURE.md">🔮 Future Security Architecture</a></li>
+        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/FUTURE_DATA_MODEL.md">🔮 Future Data Model</a></li>
+        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/THREAT_MODEL.md">🛡️ Threat Model</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### 🔌 European Parliament MCP Server Documentation
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>Current Architecture</h4>
+      <ul>
+        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/ARCHITECTURE.md">🏛️ System Architecture</a></li>
+        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/SECURITY_ARCHITECTURE.md">🔒 Security Architecture</a></li>
+        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/DATA_MODEL.md">💾 Data Model</a></li>
+        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/FLOWCHART.md">📊 Process Flowcharts</a></li>
+        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/MINDMAP.md">🧠 System Mindmaps</a></li>
+        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/SWOT.md">💼 SWOT Analysis</a></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>Developer Resources</h4>
+      <ul>
+        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/API_USAGE_GUIDE.md">📖 API Usage Guide</a></li>
+        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/ARCHITECTURE_DIAGRAMS.md">🏗️ Architecture Diagrams</a></li>
+        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/FUTURE_SECURITY_ARCHITECTURE.md">🔮 Future Security Architecture</a></li>
+        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/DEPLOYMENT_GUIDE.md">🚀 Deployment Guide</a></li>
+        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/PERFORMANCE_GUIDE.md">⚡ Performance Guide</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ## 🔑 Security Focus Areas
 
 <div align="center">
@@ -719,6 +861,8 @@ mindmap
     🌍 Open Source Leadership
       📋 CIA Compliance Manager
       🏛️ Citizen Intelligence Agency
+      🇪🇺 EU Parliament Monitor
+      🔌 European Parliament MCP Server
       🧩 Sonar-CloudFormation-Plugin
       🔧 cfn-nag Contributions
       🤝 Community Engagement
@@ -821,7 +965,25 @@ Swedish Parliament Intelligence Platform monitoring political activity in Sweden
 
 - 🌐 **Official Website:** https://riksdagsmonitor.com  
 - 📂 **Repository:** https://github.com/Hack23/riksdagsmonitor  
-- 🔒 **ISMS:** https://github.com/Hack23/ISMS-PUBLIC  
+- ⭐ **Features:** https://hack23.com/riksdagsmonitor-features.html  
+- 📚 **Documentation:** https://hack23.com/riksdagsmonitor-docs.html  
+
+#### 🇪🇺 EU Parliament Monitor
+
+European Parliament Intelligence Platform with automated multi-language news generation covering plenary sessions, committee reports, propositions, and breaking news in 14 languages.
+
+- 📂 **Repository:** https://github.com/Hack23/euparliamentmonitor  
+- ⭐ **Features:** https://hack23.com/euparliamentmonitor-features.html  
+- 📚 **Documentation:** https://hack23.com/euparliamentmonitor-docs.html  
+
+#### 🔌 European Parliament MCP Server
+
+Model Context Protocol Server for European Parliament Open Data — providing AI assistants with structured access to MEPs, plenary sessions, committees, legislative documents, and parliamentary questions.
+
+- 📂 **Repository:** https://github.com/Hack23/European-Parliament-MCP-Server  
+- ⭐ **Features:** https://hack23.com/european-parliament-mcp-features.html  
+- 📚 **Documentation:** https://hack23.com/european-parliament-mcp-docs.html  
+- 📦 **npm:** https://www.npmjs.com/package/european-parliament-mcp-server  
 
 #### 🎮 Game Template
 
@@ -1075,3 +1237,5 @@ Technical endpoints and repositories powering the public site:
 
 - 🔓 **Public ISMS:** https://github.com/Hack23/ISMS-PUBLIC  
 - 🖥️ **Homepage Source:** https://github.com/Hack23/homepage  
+- 🇪🇺 **EU Parliament Monitor:** https://github.com/Hack23/euparliamentmonitor  
+- 🔌 **European Parliament MCP Server:** https://github.com/Hack23/European-Parliament-MCP-Server  
