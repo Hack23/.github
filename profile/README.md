@@ -211,42 +211,6 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 [![ISMS](https://img.shields.io/badge/Hack23-ISMS-blue)](https://github.com/Hack23/ISMS-PUBLIC)
 
 
-### 🎮 Game Template
-
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://img.shields.io/badge/React-Three.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" width="80" alt="Game Template"/>
-      <div>
-        <a href="https://github.com/Hack23/game">
-          <img src="https://img.shields.io/github/v/release/Hack23/game" alt="Release">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Secure game development template</strong> with React, TypeScript, Three.js, and Vite - built with security-first principles, comprehensive SBOM generation, and automated security testing aligned with Hack23 AB's ISMS.</p>
-      <div>
-        <a href="https://github.com/Hack23/game/raw/master/LICENSE.md">
-          <img src="https://img.shields.io/github/license/Hack23/game.svg" alt="License">
-        </a>
-        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/game">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/game/badge" alt="OpenSSF Scorecard">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Hack23/game"><strong>📂 Repository</strong></a> •
-        <a href="https://github.com/Hack23/game#-security-features"><strong>🔒 Security Features</strong></a> •
-        <a href="https://github.com/Hack23/game/blob/master/docs/ISMS_POLICY_MAPPING.md"><strong>📋 ISMS Policy Mapping</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-[![License](https://img.shields.io/github/license/Hack23/game.svg)](https://github.com/Hack23/game/raw/master/LICENSE.md)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/game/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/game)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/game)
-
-
 ### 🔍 Citizen Intelligence Agency
 
 <table>
@@ -381,6 +345,41 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
+
+### 🎮 Game Template
+
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://img.shields.io/badge/React-Three.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" width="80" alt="Game Template"/>
+      <div>
+        <a href="https://github.com/Hack23/game">
+          <img src="https://img.shields.io/github/v/release/Hack23/game" alt="Release">
+        </a>
+      </div>
+    </td>
+    <td>
+      <p><strong>Secure game development template</strong> with React, TypeScript, Three.js, and Vite - built with security-first principles, comprehensive SBOM generation, and automated security testing aligned with Hack23 AB's ISMS.</p>
+      <div>
+        <a href="https://github.com/Hack23/game/raw/master/LICENSE.md">
+          <img src="https://img.shields.io/github/license/Hack23/game.svg" alt="License">
+        </a>
+        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/game">
+          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/game/badge" alt="OpenSSF Scorecard">
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Hack23/game"><strong>📂 Repository</strong></a> •
+        <a href="https://github.com/Hack23/game#-security-features"><strong>🔒 Security Features</strong></a> •
+        <a href="https://github.com/Hack23/game/blob/master/docs/ISMS_POLICY_MAPPING.md"><strong>📋 ISMS Policy Mapping</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+[![License](https://img.shields.io/github/license/Hack23/game.svg)](https://github.com/Hack23/game/raw/master/LICENSE.md)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/game/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/game)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/game)
 
 
 ### ☁️ Lambda in Private VPC
