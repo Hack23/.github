@@ -152,6 +152,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
         </a>
       </div>
       <div>
+        <a href="https://euparliamentmonitor.com"><strong>🌐 Official Website</strong></a> •
         <a href="https://github.com/Hack23/euparliamentmonitor"><strong>📂 Repository</strong></a> •
         <a href="https://hack23.com/euparliamentmonitor-features.html"><strong>✨ Features</strong></a> •
         <a href="https://hack23.com/euparliamentmonitor-docs.html"><strong>📚 Documentation</strong></a>
