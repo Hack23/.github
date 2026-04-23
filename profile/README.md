@@ -64,7 +64,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
   <tr>
     <td width="100%">
       <div align="center">
-        <h3>📖 Security Blog: 30+ Posts</h3>
+        <h3>📖 Security Blog: 50+ Posts</h3>
         <p>Everything You Know About Security Is a Lie — Nation-state capabilities, approved crypto paradox, and Chapel Perilous initiation. Complete ISMS coverage with radical transparency.</p>
         <a href="https://www.hack23.com/blog.html">
           <img src="https://img.shields.io/badge/Blog-Discordian_Security-FF6B35?style=for-the-badge&logo=blogger&logoColor=white" alt="Discordian Security Blog">
@@ -76,7 +76,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 
 **Featured Content:**
 - 🎭 **[Discordian Manifesto](https://hack23.com/discordian-cybersecurity.html)** - Everything You Know About Security Is a Lie
-- 📚 **Complete ISMS Coverage** - All 30 posts link directly to [ISMS-PUBLIC repository](https://github.com/Hack23/ISMS-PUBLIC)
+- 📚 **Complete ISMS Coverage** - All 50+ posts link directly to [ISMS-PUBLIC repository](https://github.com/Hack23/ISMS-PUBLIC)
 - 🍎 **Illuminatus! Style** - FNORD detection, Chapel Perilous references, 23 FNORD 5 signatures
 
 *All hail Eris! All hail Discordia!* 🍎
@@ -229,10 +229,10 @@ Explore information security, ISMS policies, and cybersecurity best practices th
     <td>
       <p><strong>Political transparency platform</strong> monitoring Swedish political activity with data-driven insights, analytics, dashboard visualizations, and accountability metrics.</p>
       <div>
-        <a href="https://bestpractices.coreinfrastructure.org/projects/770">
-          <img src="https://bestpractices.coreinfrastructure.org/projects/770/badge" alt="CII Best Practices">
+        <a href="https://www.bestpractices.dev/projects/770">
+          <img src="https://www.bestpractices.dev/projects/770/badge" alt="OpenSSF Best Practices">
         </a>
-        <a href="[https://slsa.dev/spec/v1.0/levels](https://github.com/Hack23/cia/attestations)">
+        <a href="https://github.com/Hack23/cia/attestations">
           <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
         </a>
         <a href="https://sonarcloud.io/summary/new_code?id=Hack23_cia">
@@ -248,9 +248,9 @@ Explore information security, ISMS policies, and cybersecurity best practices th
   </tr>
 </table>
 
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/770/badge)](https://bestpractices.coreinfrastructure.org/projects/770)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/770/badge)](https://www.bestpractices.dev/projects/770)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/cia/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/cia)
-[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://slsa.dev/spec/v1.0/levels)
+[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/cia/attestations)
 [![Verify & Deploy](https://github.com/Hack23/cia/actions/workflows/release.yml/badge.svg?branch=master)](https://github.com/Hack23/cia/actions/workflows/release.yml)
 [![Scorecard supply-chain security](https://github.com/Hack23/cia/actions/workflows/scorecards.yml/badge.svg?branch=master)](https://github.com/Hack23/cia/actions/workflows/scorecards.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hack23_cia)
@@ -273,7 +273,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
     <td>
       <p><strong>Realistic 2D precision combat simulator</strong> inspired by traditional Korean martial arts, focusing on precise anatomical targeting, authentic combat techniques, and detailed physics-based interactions.</p>
       <div>
-        <a href="https://github.com/Hack23/blacktrigram/raw/master/LICENSE.md">
+        <a href="https://github.com/Hack23/blacktrigram/raw/main/LICENSE.md">
           <img src="https://img.shields.io/github/license/Hack23/blacktrigram.svg" alt="License">
         </a>
         <a href="https://blacktrigram.com">
@@ -291,7 +291,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 </table>
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/blacktrigram/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/blacktrigram)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/10777/badge)](https://bestpractices.coreinfrastructure.org/projects/10777)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10777/badge)](https://www.bestpractices.dev/projects/10777)
 [![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/blacktrigram/attestations)
 [![Scorecard supply-chain security](https://github.com/Hack23/blacktrigram/actions/workflows/scorecards.yml/badge.svg?branch=main)](https://github.com/Hack23/blacktrigram/actions/workflows/scorecards.yml)
 [![Test & Report](https://github.com/Hack23/blacktrigram/actions/workflows/test-and-report.yml/badge.svg?branch=main)](https://github.com/Hack23/blacktrigram/actions/workflows/test-and-report.yml)
@@ -300,7 +300,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHack23%2Fblacktrigram.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHack23%2Fblacktrigram?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHack23%2Fblacktrigram.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHack23%2Fblacktrigram?ref=badge_shield)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/blacktrigram)
 
 
@@ -319,8 +319,8 @@ Explore information security, ISMS policies, and cybersecurity best practices th
     <td>
       <p><strong>Security assessment platform for the CIA triad (Confidentiality, Integrity, Availability)</strong> with business impact analysis and compliance mapping to regulatory frameworks like NIST, ISO, GDPR, HIPAA, and SOC2.</p>
       <div>
-        <a href="https://bestpractices.coreinfrastructure.org/projects/10365">
-          <img src="https://bestpractices.coreinfrastructure.org/projects/10365/badge" alt="CII Best Practices">
+        <a href="https://www.bestpractices.dev/projects/10365">
+          <img src="https://www.bestpractices.dev/projects/10365/badge" alt="OpenSSF Best Practices">
         </a>
         <a href="https://github.com/Hack23/cia-compliance-manager/attestations">
           <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
@@ -339,8 +339,8 @@ Explore information security, ISMS policies, and cybersecurity best practices th
   </tr>
 </table>
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHack23%2Fcia-compliance-manager.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHack23%2Fcia-compliance-manager?ref=badge_shield)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/10365/badge)](https://bestpractices.coreinfrastructure.org/projects/10365)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHack23%2Fcia-compliance-manager.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHack23%2Fcia-compliance-manager?ref=badge_shield)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10365/badge)](https://www.bestpractices.dev/projects/10365)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/cia-compliance-manager/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/cia-compliance-manager)
 [![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/cia-compliance-manager/attestations)
 [![Verify & Release](https://github.com/Hack23/cia-compliance-manager/actions/workflows/release.yml/badge.svg)](https://github.com/Hack23/cia-compliance-manager/actions/workflows/release.yml)
@@ -439,8 +439,8 @@ Explore information security, ISMS policies, and cybersecurity best practices th
     <td>
       <p><strong>SonarQube plugin for analyzing AWS CloudFormation templates</strong> with security best practices based on NIST, CWE, and ISO standards.</p>
       <div>
-        <a href="https://bestpractices.coreinfrastructure.org/projects/4545">
-          <img src="https://bestpractices.coreinfrastructure.org/projects/4545/badge" alt="CII Best Practices">
+        <a href="https://www.bestpractices.dev/projects/4545">
+          <img src="https://www.bestpractices.dev/projects/4545/badge" alt="OpenSSF Best Practices">
         </a>
         <a href="https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin">
           <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin/badge" alt="OpenSSF Scorecard">
@@ -455,7 +455,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 </table>
 
 [![License](https://img.shields.io/github/license/Hack23/sonar-cloudformation-plugin.svg)](https://github.com/Hack23/sonar-cloudformation-plugin/raw/master/LICENSE.txt)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4545/badge)](https://bestpractices.coreinfrastructure.org/projects/4545)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/4545/badge)](https://www.bestpractices.dev/projects/4545)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin/badge)](https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin)
 
 
@@ -480,7 +480,7 @@ Professional cybersecurity consulting services delivered remotely or in-person i
   </tr>
   <tr>
     <td>🏢 Company</td>
-    <td>Hack23 AB (Org.nr 5595347807)</td>
+    <td>Hack23 AB (Org.nr 559534-7807)</td>
   </tr>
   <tr>
     <td>📧 Contact</td>
