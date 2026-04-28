@@ -1,1249 +1,527 @@
-# 🔒 Hack23 AB
-### Swedish innovation hub specializing in creating immersive and precise game experiences alongside expert cybersecurity consulting and solutions.
+<!-- SPDX-FileCopyrightText: 2008-2026 Hack23 AB (Org.nr 559534-7807, Gothenburg, Sweden) -->
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+<!--
+  Hack23 AB — organisation profile README
+  Rendered automatically at https://github.com/Hack23
+  SEO meta keywords: Hack23, cybersecurity consulting, Sweden, ISMS, ISO 27001:2022,
+  NIST CSF 2.0, CIS Controls v8.1, GDPR, NIS2, EU CRA, AWS security, DevSecOps,
+  Citizen Intelligence Agency, Riksdagsmonitor, EU Parliament Monitor,
+  European Parliament MCP Server, CIA Compliance Manager, Black Trigram,
+  Discordian cybersecurity, civic tech, political intelligence, OSINT,
+  AI political news, Apache 2.0, open source security, James Pether Sörling.
+-->
 
-<div align="center">
-  <a href="https://hack23.com">https://hack23.com</a>
-  
-  <p>
-    <a href="https://hack23.com"><img src="https://img.shields.io/badge/Website-hack23.com-00cc66?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/></a>
-    <a href="https://github.com/Hack23"><img src="https://img.shields.io/badge/GitHub-Hack23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/jamessorling/"><img src="https://img.shields.io/badge/LinkedIn-jamessorling-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.openhub.net/accounts/pether"><img src="https://img.shields.io/badge/OpenHub-pether-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OpenHub"/></a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://hack23.com"><img src="https://hack23.com/icon-192.png" alt="Hack23 AB — Swedish cybersecurity consulting and civic-tech publisher (logo)" width="192" height="192"></a>
+</p>
 
+<h1 align="center">🔒 Hack23 AB</h1>
 
-## 🔐 Commitment to Transparency and Security
+<p align="center">
+  <strong>Swedish Cybersecurity Consulting · Public ISMS · Civic-Tech &amp; AI Political-Intelligence Open Source</strong><br>
+  <em>🛡️ ISO 27001:2022 · 🔐 NIST CSF 2.0 · 🎯 CIS Controls v8.1 · 🇪🇺 GDPR &amp; EU CRA · ☁️ AWS Security · 🤖 AI Newsrooms · 🍎 Discordian Transparency</em>
+</p>
 
-At Hack23 AB, we believe that true security comes through transparency and demonstrable practices. Our Information Security Management System (ISMS) is publicly available, showcasing our commitment to security excellence and organizational transparency.
+<p align="center">
+  <em>"Specialists in security architecture, cloud security, DevSecOps, AI governance and open source — building radical transparency into every layer."</em>
+</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <h3>📋 Public ISMS Repository</h3>
-        <p>Complete Information Security Management System documentation</p>
-        <a href="https://github.com/Hack23/ISMS-PUBLIC">
-          <img src="https://img.shields.io/badge/ISMS-PUBLIC-0066CC?style=for-the-badge&logo=github&logoColor=white" alt="ISMS Public Repository">
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <h3>🔒 Information Security Policy</h3>
-        <p>Enterprise-grade security framework and governance</p>
-        <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md">
-          <img src="https://img.shields.io/badge/Security-Policy-DC143C?style=for-the-badge&logo=shield&logoColor=white" alt="Information Security Policy">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- ───────────────────────── Quick links ───────────────────────── -->
 
-### 🏆 Security Through Transparency
+<p align="center">
+  <a href="https://hack23.com"><img src="https://img.shields.io/badge/🌐_Website-hack23.com-00cc66?style=for-the-badge&logoColor=white" alt="Hack23 AB official website hack23.com"/></a>
+  <a href="https://hack23.com/services.html"><img src="https://img.shields.io/badge/🔑_Services-Security_Consulting-0066CC?style=for-the-badge" alt="Hack23 cybersecurity consulting services"/></a>
+  <a href="https://hack23.com/blog.html"><img src="https://img.shields.io/badge/🍎_Blog-Discordian_Cybersecurity-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Discordian cybersecurity blog by Hack23"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC"><img src="https://img.shields.io/badge/🔓_ISMS-PUBLIC-0066CC?style=for-the-badge&logo=github&logoColor=white" alt="Hack23 public ISMS repository"/></a>
+  <a href="https://github.com/sponsors/Hack23"><img src="https://img.shields.io/badge/💖_Sponsor-Hack23-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Hack23 AB on GitHub Sponsors"/></a>
+</p>
 
-Our approach to cybersecurity consulting is built on a foundation of transparent practices:
+<p align="center">
+  <a href="https://www.linkedin.com/in/jamessorling/"><img src="https://img.shields.io/badge/LinkedIn-jamessorling-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="James Pether Sörling, CEO Hack23 AB, on LinkedIn"/></a>
+  <a href="https://github.com/Hack23"><img src="https://img.shields.io/badge/GitHub-Hack23-181717?style=for-the-badge&logo=github&logoColor=white" alt="Hack23 organisation on GitHub"/></a>
+  <a href="https://github.com/Hack23/talks"><img src="https://img.shields.io/badge/🎙️_Talks-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Hack23 conference talks and tech presentations"/></a>
+  <a href="https://hack23.com/sitemap.html"><img src="https://img.shields.io/badge/🗺️_Sitemap-8_languages-0A66C2?style=for-the-badge" alt="hack23.com human-readable site map in 8 languages"/></a>
+</p>
 
-- **🔍 Open Documentation**: Complete ISMS framework available for review
-- **📋 Policy Transparency**: Detailed security policies and procedures publicly accessible  
-- **🎯 Demonstrable Expertise**: Our own security implementation serves as a live demonstration
-- **🔄 Continuous Improvement**: Public documentation enables community feedback and enhancement
+<!-- ───────────────────────── Compliance badges ───────────────────────── -->
 
-<div align="center">
-  <p><em>"Our commitment to transparency extends to our security practices - demonstrating that true security comes from robust processes, continuous improvement, and a culture where security considerations are integrated into every business decision."</em></p>
-  <p><strong>— James Pether Sörling, CEO/Founder</strong></p>
-</div>
-
----
-
-### 🍎 Discordian Cybersecurity Insights
-
-Explore information security, ISMS policies, and cybersecurity best practices through the unique **Discordian lens** inspired by the *Illuminatus!* trilogy. **"Think for yourself, question authority."**
-
-<table>
-  <tr>
-    <td width="100%">
-      <div align="center">
-        <h3>📖 Security Blog: 30+ Posts</h3>
-        <p>Everything You Know About Security Is a Lie — Nation-state capabilities, approved crypto paradox, and Chapel Perilous initiation. Complete ISMS coverage with radical transparency.</p>
-        <a href="https://www.hack23.com/blog.html">
-          <img src="https://img.shields.io/badge/Blog-Discordian_Security-FF6B35?style=for-the-badge&logo=blogger&logoColor=white" alt="Discordian Security Blog">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-**Featured Content:**
-- 🎭 **[Discordian Manifesto](https://hack23.com/discordian-cybersecurity.html)** - Everything You Know About Security Is a Lie
-- 📚 **Complete ISMS Coverage** - All 30 posts link directly to [ISMS-PUBLIC repository](https://github.com/Hack23/ISMS-PUBLIC)
-- 🍎 **Illuminatus! Style** - FNORD detection, Chapel Perilous references, 23 FNORD 5 signatures
-
-*All hail Eris! All hail Discordia!* 🍎
+<p align="center">
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md"><img src="https://img.shields.io/badge/ISO_27001-2022-0066CC?style=flat-square&logo=iso&logoColor=white" alt="ISO 27001:2022 aligned across all Hack23 repositories"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md"><img src="https://img.shields.io/badge/NIST_CSF-2.0-003366?style=flat-square&logo=nist&logoColor=white" alt="NIST Cybersecurity Framework 2.0 aligned"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md"><img src="https://img.shields.io/badge/CIS_Controls-v8.1-orange?style=flat-square&logo=cisecurity&logoColor=white" alt="CIS Controls v8.1 aligned"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Privacy_Policy.md"><img src="https://img.shields.io/badge/GDPR-Privacy_by_Design-005EB8?style=flat-square&logo=european-union&logoColor=white" alt="GDPR — privacy by design"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/CRA_Conformity_Assessment_Process.md"><img src="https://img.shields.io/badge/EU_CRA-Self_Assessment-003399?style=flat-square&logo=european-union&logoColor=white" alt="EU Cyber Resilience Act self-assessment"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md"><img src="https://img.shields.io/badge/NIS2-Aligned-1A237E?style=flat-square&logo=european-union&logoColor=white" alt="NIS2 directive aligned"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Secure_Development_Policy.md"><img src="https://img.shields.io/badge/SLSA-Level_3-2E7D32?style=flat-square&logo=github&logoColor=white" alt="SLSA Level 3 across flagship repos"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/AI_Policy.md"><img src="https://img.shields.io/badge/AI_Governance-OWASP_LLM-7B1FA2?style=flat-square&logo=openai&logoColor=white" alt="AI governance and OWASP LLM security policy"/></a>
+</p>
 
 ---
 
-### 🗳️ Riksdagsmonitor
+## 🎯 Mission
 
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://img.shields.io/badge/Riksdag-Monitor-00338D?style=for-the-badge&logo=swedish&logoColor=FECC00" width="80" alt="Riksdagsmonitor"/>
-      <div>
-        <a href="https://riksdagsmonitor.com">
-          <img src="https://img.shields.io/website?url=https://riksdagsmonitor.com" alt="Website Status">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Swedish Parliament Intelligence Platform</strong> monitoring political activity in Sweden's Riksdag with systematic transparency through real-time analysis and 50+ years of historical data (1971-2024).</p>
-      <div>
-        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/riksdagsmonitor">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/riksdagsmonitor/badge" alt="OpenSSF Scorecard">
-        </a>
-        <a href="https://github.com/Hack23/riksdagsmonitor/actions/workflows/quality-checks.yml">
-          <img src="https://github.com/Hack23/riksdagsmonitor/actions/workflows/quality-checks.yml/badge.svg" alt="Quality Checks">
-        </a>
-        <a href="https://github.com/Hack23/riksdagsmonitor/license">
-          <img src="https://img.shields.io/github/license/Hack23/riksdagsmonitor" alt="License">
-        </a>
-      </div>
-      <div>
-        <a href="https://riksdagsmonitor.com"><strong>🌐 Official Website</strong></a> •
-        <a href="https://github.com/Hack23/riksdagsmonitor"><strong>📂 Repository</strong></a> •
-        <a href="https://hack23.com/riksdagsmonitor-features.html"><strong>✨ Features</strong></a> •
-        <a href="https://hack23.com/riksdagsmonitor-docs.html"><strong>📚 Documentation</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
+> **Make security and democratic transparency tangible through evidence-based open source.**
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/riksdagsmonitor/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/riksdagsmonitor)
-[![Quality Checks](https://github.com/Hack23/riksdagsmonitor/actions/workflows/quality-checks.yml/badge.svg)](https://github.com/Hack23/riksdagsmonitor/actions/workflows/quality-checks.yml)
-[![Dependency Review](https://github.com/Hack23/riksdagsmonitor/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/Hack23/riksdagsmonitor/actions/workflows/dependency-review.yml)
-[![License](https://img.shields.io/github/license/Hack23/riksdagsmonitor)](https://github.com/Hack23/riksdagsmonitor/blob/main/LICENSE)
-[![ISMS](https://img.shields.io/badge/Hack23-ISMS-blue)](https://github.com/Hack23/ISMS-PUBLIC)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/riksdagsmonitor)
+Hack23 AB is an independent Swedish cybersecurity consultancy and civic-tech publisher founded by **[James Pether Sörling](https://www.linkedin.com/in/jamessorling/)**. We deliver:
 
+- 🔐 **Cybersecurity consulting** — security architecture, cloud/AWS security, DevSecOps, ISMS implementation, AI governance and compliance (ISO 27001:2022, NIST CSF 2.0, CIS Controls v8.1, GDPR, NIS2, EU CRA).
+- 🛡️ **A fully public ISMS** — 38 policies, machine-verifiable, version-controlled at [Hack23/ISMS-PUBLIC](https://github.com/Hack23/ISMS-PUBLIC).
+- 🤖 **Six flagship open-source projects** — political-intelligence platforms, AI newsrooms, compliance tooling and a Korean martial-arts simulator — all **Apache-2.0** and aligned with the same ISMS.
+- 🍎 **30+ Discordian cybersecurity blog posts** — accessible, narrative-driven security writing that maps back to formal policies.
+- 🎙️ **Conference talks, training and security culture work** — turning security from a barrier into an enabler.
 
-### 🇪🇺 EU Parliament Monitor
-
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://img.shields.io/badge/EU-Parliament-003399?style=for-the-badge&logo=european-union&logoColor=FFCC00" width="80" alt="EU Parliament Monitor"/>
-      <div>
-        <a href="https://github.com/Hack23/euparliamentmonitor">
-          <img src="https://img.shields.io/github/v/release/Hack23/euparliamentmonitor" alt="Release">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>European Parliament Intelligence Platform</strong> — an automated multi-language news platform that monitors EU Parliament activities with 14-language support, covering plenary sessions, committee reports, propositions, and breaking news.</p>
-      <div>
-        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/euparliamentmonitor">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/euparliamentmonitor/badge" alt="OpenSSF Scorecard">
-        </a>
-        <a href="https://github.com/Hack23/euparliamentmonitor/attestations">
-          <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
-        </a>
-        <a href="https://github.com/Hack23/euparliamentmonitor/license">
-          <img src="https://img.shields.io/github/license/Hack23/euparliamentmonitor" alt="License">
-        </a>
-      </div>
-      <div>
-        <a href="https://euparliamentmonitor.com"><strong>🌐 Official Website</strong></a> •
-        <a href="https://github.com/Hack23/euparliamentmonitor"><strong>📂 Repository</strong></a> •
-        <a href="https://hack23.com/euparliamentmonitor-features.html"><strong>✨ Features</strong></a> •
-        <a href="https://hack23.com/euparliamentmonitor-docs.html"><strong>📚 Documentation</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/euparliamentmonitor/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/euparliamentmonitor)
-[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/euparliamentmonitor/attestations)
-[![News Generation](https://github.com/Hack23/euparliamentmonitor/actions/workflows/news-generation.yml/badge.svg)](https://github.com/Hack23/euparliamentmonitor/actions/workflows/news-generation.yml)
-[![Test and Report](https://github.com/Hack23/euparliamentmonitor/actions/workflows/test-and-report.yml/badge.svg)](https://github.com/Hack23/euparliamentmonitor/actions/workflows/test-and-report.yml)
-[![License](https://img.shields.io/github/license/Hack23/euparliamentmonitor)](https://github.com/Hack23/euparliamentmonitor/blob/main/LICENSE)
-[![ISMS](https://img.shields.io/badge/Hack23-ISMS-blue)](https://github.com/Hack23/ISMS-PUBLIC)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/euparliamentmonitor)
-
-
-### 🔌 European Parliament MCP Server
-
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://img.shields.io/badge/MCP-Server-6366F1?style=for-the-badge&logo=typescript&logoColor=white" width="80" alt="European Parliament MCP Server"/>
-      <div>
-        <a href="https://www.npmjs.com/package/european-parliament-mcp-server">
-          <img src="https://img.shields.io/npm/v/european-parliament-mcp-server.svg" alt="npm version">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Model Context Protocol Server for European Parliament Open Data</strong> — providing AI assistants with structured access to MEPs, plenary sessions, committees, legislative documents, and parliamentary questions through a secure, type-safe TypeScript implementation.</p>
-      <div>
-        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/European-Parliament-MCP-Server">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/European-Parliament-MCP-Server/badge" alt="OpenSSF Scorecard">
-        </a>
-        <a href="https://github.com/Hack23/European-Parliament-MCP-Server/attestations">
-          <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
-        </a>
-        <a href="https://github.com/Hack23/European-Parliament-MCP-Server/license">
-          <img src="https://img.shields.io/github/license/Hack23/European-Parliament-MCP-Server.svg" alt="License">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Hack23/European-Parliament-MCP-Server"><strong>📂 Repository</strong></a> •
-        <a href="https://hack23.com/european-parliament-mcp-features.html"><strong>✨ Features</strong></a> •
-        <a href="https://hack23.com/european-parliament-mcp-docs.html"><strong>📚 Documentation</strong></a> •
-        <a href="https://www.npmjs.com/package/european-parliament-mcp-server"><strong>📦 npm</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/European-Parliament-MCP-Server/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/European-Parliament-MCP-Server)
-[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/European-Parliament-MCP-Server/attestations)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHack23%2FEuropean-Parliament-MCP-Server.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHack23%2FEuropean-Parliament-MCP-Server?ref=badge_shield)
-[![Build Status](https://github.com/Hack23/European-Parliament-MCP-Server/actions/workflows/main.yml/badge.svg)](https://github.com/Hack23/European-Parliament-MCP-Server/actions/workflows/main.yml)
-[![License](https://img.shields.io/github/license/Hack23/European-Parliament-MCP-Server.svg)](https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/LICENSE.md)
-[![ISMS](https://img.shields.io/badge/Hack23-ISMS-blue)](https://github.com/Hack23/ISMS-PUBLIC)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/European-Parliament-MCP-Server)
-
-
-### 🔍 Citizen Intelligence Agency
-
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://raw.githubusercontent.com/Hack23/cia/refs/heads/master/citizen-intelligence-agency/src/main/webapp/VAADIN/themes/cia/cia-logo.png" width="80" height="80" alt="CIA Logo"/>
-      <div>
-        <a href="https://github.com/Hack23/cia">
-          <img src="https://img.shields.io/github/v/release/Hack23/cia" alt="Release">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Political transparency platform</strong> monitoring Swedish political activity with data-driven insights, analytics, dashboard visualizations, and accountability metrics.</p>
-      <div>
-        <a href="https://bestpractices.coreinfrastructure.org/projects/770">
-          <img src="https://bestpractices.coreinfrastructure.org/projects/770/badge" alt="CII Best Practices">
-        </a>
-        <a href="[https://slsa.dev/spec/v1.0/levels](https://github.com/Hack23/cia/attestations)">
-          <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
-        </a>
-        <a href="https://sonarcloud.io/summary/new_code?id=Hack23_cia">
-          <img src="https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia&metric=security_rating" alt="Security Rating">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Hack23/cia"><strong>📂 Repository</strong></a> •
-        <a href="https://hack23.com/cia-features.html"><strong>✨ Features</strong></a> •
-        <a href="https://hack23.com/cia-docs.html"><strong>📚 Documentation</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/770/badge)](https://bestpractices.coreinfrastructure.org/projects/770)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/cia/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/cia)
-[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://slsa.dev/spec/v1.0/levels)
-[![Verify & Deploy](https://github.com/Hack23/cia/actions/workflows/release.yml/badge.svg?branch=master)](https://github.com/Hack23/cia/actions/workflows/release.yml)
-[![Scorecard supply-chain security](https://github.com/Hack23/cia/actions/workflows/scorecards.yml/badge.svg?branch=master)](https://github.com/Hack23/cia/actions/workflows/scorecards.yml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hack23_cia)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/cia)
-
-
-# 🔥 Black Trigram (흑괘)
-
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://blacktrigram.com/black-trigram-256.png" width="80" height="80" alt="Black Trigram Logo"/>
-      <div>
-        <a href="https://github.com/Hack23/blacktrigram">
-          <img src="https://img.shields.io/github/v/release/Hack23/blacktrigram" alt="Release">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Realistic 2D precision combat simulator</strong> inspired by traditional Korean martial arts, focusing on precise anatomical targeting, authentic combat techniques, and detailed physics-based interactions.</p>
-      <div>
-        <a href="https://github.com/Hack23/blacktrigram/raw/master/LICENSE.md">
-          <img src="https://img.shields.io/github/license/Hack23/blacktrigram.svg" alt="License">
-        </a>
-        <a href="https://blacktrigram.com">
-          <img src="https://img.shields.io/website?url=https://blacktrigram.com" alt="Website Status">
-        </a>
-      </div>
-      <div>
-        <a href="https://blacktrigram.com"><strong>🌐 Official Website</strong></a> •
-        <a href="https://github.com/Hack23/blacktrigram"><strong>📂 Repository</strong></a> •
-        <a href="https://hack23.com/black-trigram-features.html"><strong>✨ Features</strong></a> •
-        <a href="https://hack23.com/black-trigram-docs.html"><strong>📚 Documentation</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/blacktrigram/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/blacktrigram)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/10777/badge)](https://bestpractices.coreinfrastructure.org/projects/10777)
-[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/blacktrigram/attestations)
-[![Scorecard supply-chain security](https://github.com/Hack23/blacktrigram/actions/workflows/scorecards.yml/badge.svg?branch=main)](https://github.com/Hack23/blacktrigram/actions/workflows/scorecards.yml)
-[![Test & Report](https://github.com/Hack23/blacktrigram/actions/workflows/test-and-report.yml/badge.svg?branch=main)](https://github.com/Hack23/blacktrigram/actions/workflows/test-and-report.yml)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHack23%2Fblacktrigram.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHack23%2Fblacktrigram?ref=badge_shield)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/blacktrigram)
-
-
-### 🔐 CIA Compliance Manager
-
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://hack23.com/icon-192.png" width="80" height="80" alt="CIA Compliance Manager Logo"/>
-      <div>
-        <a href="https://github.com/Hack23/cia-compliance-manager">
-          <img src="https://img.shields.io/github/v/release/Hack23/cia-compliance-manager" alt="Release">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Security assessment platform for the CIA triad (Confidentiality, Integrity, Availability)</strong> with business impact analysis and compliance mapping to regulatory frameworks like NIST, ISO, GDPR, HIPAA, and SOC2.</p>
-      <div>
-        <a href="https://bestpractices.coreinfrastructure.org/projects/10365">
-          <img src="https://bestpractices.coreinfrastructure.org/projects/10365/badge" alt="CII Best Practices">
-        </a>
-        <a href="https://github.com/Hack23/cia-compliance-manager/attestations">
-          <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
-        </a>
-        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/cia-compliance-manager">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/cia-compliance-manager/badge" alt="OpenSSF Scorecard">
-        </a>
-      </div>
-      <div>
-        <a href="https://ciacompliancemanager.com/"><strong>🚀 Live Demo</strong></a> •
-        <a href="https://github.com/Hack23/cia-compliance-manager"><strong>📂 Repository</strong></a> •
-        <a href="https://hack23.com/cia-compliance-manager-features.html"><strong>✨ Features</strong></a> •
-        <a href="https://hack23.com/cia-compliance-manager-docs.html"><strong>📚 Documentation</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHack23%2Fcia-compliance-manager.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHack23%2Fcia-compliance-manager?ref=badge_shield)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/10365/badge)](https://bestpractices.coreinfrastructure.org/projects/10365)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/cia-compliance-manager/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/cia-compliance-manager)
-[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/cia-compliance-manager/attestations)
-[![Verify & Release](https://github.com/Hack23/cia-compliance-manager/actions/workflows/release.yml/badge.svg)](https://github.com/Hack23/cia-compliance-manager/actions/workflows/release.yml)
-[![Scorecard Supply-Chain Security](https://github.com/Hack23/cia-compliance-manager/actions/workflows/scorecards.yml/badge.svg?branch=main)](https://github.com/Hack23/cia-compliance-manager/actions/workflows/scorecards.yml)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/cia-compliance-manager)
-
-
-### 🎮 Game Template
-
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://img.shields.io/badge/React-Three.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" width="80" alt="Game Template"/>
-      <div>
-        <a href="https://github.com/Hack23/game">
-          <img src="https://img.shields.io/github/v/release/Hack23/game" alt="Release">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Secure game development template</strong> with React, TypeScript, Three.js, and Vite - built with security-first principles, comprehensive SBOM generation, and automated security testing aligned with Hack23 AB's ISMS.</p>
-      <div>
-        <a href="https://github.com/Hack23/game/raw/master/LICENSE.md">
-          <img src="https://img.shields.io/github/license/Hack23/game.svg" alt="License">
-        </a>
-        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/game">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/game/badge" alt="OpenSSF Scorecard">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Hack23/game"><strong>📂 Repository</strong></a> •
-        <a href="https://github.com/Hack23/game#-security-features"><strong>🔒 Security Features</strong></a> •
-        <a href="https://github.com/Hack23/game/blob/master/docs/ISMS_POLICY_MAPPING.md"><strong>📋 ISMS Policy Mapping</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-[![License](https://img.shields.io/github/license/Hack23/game.svg)](https://github.com/Hack23/game/raw/master/LICENSE.md)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/game/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/game)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/game)
-
-
-### ☁️ Lambda in Private VPC
-
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" width="80" alt="AWS Lambda"/>
-      <div>
-        <a href="https://github.com/Hack23/lambda-in-private-vpc/actions/workflows/main.yml">
-          <img src="https://github.com/Hack23/lambda-in-private-vpc/actions/workflows/main.yml/badge.svg" alt="CI/CD">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Enterprise-grade multi-region active/active architecture</strong> with near-zero recovery time, comprehensive DNS failover, and AWS Resilience Hub policy compliance for mission-critical applications.</p>
-      <div>
-        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/lambda-in-private-vpc">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/lambda-in-private-vpc/badge" alt="OpenSSF Scorecard">
-        </a>
-        <a href="https://github.com/Hack23/lambda-in-private-vpc/license">
-          <img src="https://img.shields.io/github/license/Hack23/lambda-in-private-vpc.svg" alt="License">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Hack23/lambda-in-private-vpc"><strong>📂 Repository</strong></a> •
-        <a href="https://github.com/Hack23/lambda-in-private-vpc#-architecture-design"><strong>🏗️ Architecture</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/lambda-in-private-vpc/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/lambda-in-private-vpc)
-[![Verify and Deploy](https://github.com/Hack23/lambda-in-private-vpc/actions/workflows/main.yml/badge.svg)](https://github.com/Hack23/lambda-in-private-vpc/actions/workflows/main.yml)
-[![Scorecard Supply-Chain Security](https://github.com/Hack23/lambda-in-private-vpc/actions/workflows/scorecard.yml/badge.svg?branch=main)](https://github.com/Hack23/lambda-in-private-vpc/actions/workflows/scorecard.yml)
-
-
-### 🧪 Sonar-CloudFormation-Plugin
-
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://img.shields.io/badge/SonarQube-Plugin-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" width="80" alt="SonarQube Plugin"/>
-      <div>
-        <a href="http://mvnrepository.com/artifact/com.hack23.sonar/sonar-cloudformation-plugin">
-          <img src="https://img.shields.io/maven-central/v/com.hack23.sonar/sonar-cloudformation-plugin.svg" alt="Maven Central">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>SonarQube plugin for analyzing AWS CloudFormation templates</strong> with security best practices based on NIST, CWE, and ISO standards.</p>
-      <div>
-        <a href="https://bestpractices.coreinfrastructure.org/projects/4545">
-          <img src="https://bestpractices.coreinfrastructure.org/projects/4545/badge" alt="CII Best Practices">
-        </a>
-        <a href="https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin/badge" alt="OpenSSF Scorecard">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Hack23/sonar-cloudformation-plugin"><strong>📂 Repository</strong></a> •
-        <a href="http://mvnrepository.com/artifact/com.hack23.sonar/sonar-cloudformation-plugin"><strong>📦 Maven Central</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-[![License](https://img.shields.io/github/license/Hack23/sonar-cloudformation-plugin.svg)](https://github.com/Hack23/sonar-cloudformation-plugin/raw/master/LICENSE.txt)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4545/badge)](https://bestpractices.coreinfrastructure.org/projects/4545)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin/badge)](https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin)
-
-
-
-
-## 🔑 Security Services
-
-Professional cybersecurity consulting services delivered remotely or in-person in Gothenburg. Drawing from over three decades of experience in software development and security architecture, we deliver practical security solutions that integrate seamlessly into your development processes without hindering innovation.
+Everything we ship is **non-partisan, ad-free, GDPR-clean, privacy-by-design and architecturally engineered so it cannot be weaponised** for partisan or commercial influence.
 
 ---
 
-## 📋 Service Overview
+## 💖 Sponsor Hack23
+
+> 🌟 **Help us keep our public ISMS, AI political newsrooms and civic-tech open source.** All flagship projects are Apache-2.0, ad-free and operationally funded by [Hack23 AB](https://hack23.com) plus generous sponsors.
+
+<p align="center">
+  <a href="https://github.com/sponsors/Hack23"><img src="https://img.shields.io/badge/💖_Become_a_Sponsor-github.com%2Fsponsors%2FHack23-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Become a Hack23 sponsor on GitHub Sponsors"/></a>
+</p>
 
 <table>
   <tr>
-    <td>🌐 Availability</td>
-    <td>Remote or in-person (Gothenburg)</td>
+    <th width="33%">☕ Personal</th>
+    <th width="33%">🏢 Professional</th>
+    <th width="34%">🏛️ Institutional</th>
   </tr>
   <tr>
-    <td>💰 Pricing</td>
-    <td>Contact for pricing</td>
-  </tr>
-  <tr>
-    <td>🏢 Company</td>
-    <td>Hack23 AB (Org.nr 5595347807)</td>
-  </tr>
-  <tr>
-    <td>📧 Contact</td>
-    <td>LinkedIn</td>
+    <td valign="top">
+      <strong>Individuals, students, journalists, civic activists.</strong><br>
+      Funds:
+      <ul>
+        <li>📡 AWS hosting (CloudFront, S3, Route 53)</li>
+        <li>🌐 Domain renewals (riksdagsmonitor.com, euparliamentmonitor.com, blacktrigram.com, hack23.com)</li>
+        <li>🍎 Discordian blog publication</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <strong>Security professionals, dev teams, OSPOs, NGOs.</strong><br>
+      Funds:
+      <ul>
+        <li>🤖 Claude Opus / GPT API costs for the agentic newsrooms</li>
+        <li>🛡️ Third-party security scanning (DAST, SAST, license scanners)</li>
+        <li>📝 ISMS continuous-improvement work</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <strong>Universities, research institutes, media organisations.</strong><br>
+      Funds:
+      <ul>
+        <li>📊 Long-term archive integrity (1971-onwards parliamentary corpora)</li>
+        <li>🌍 14-language translation infrastructure</li>
+        <li>🎓 Educational outreach and conference presence</li>
+      </ul>
+    </td>
   </tr>
 </table>
+
+> 👉 **Sponsor at <https://github.com/sponsors/Hack23>** — every contribution is acknowledged (unless anonymity is requested) and helps keep parliamentary monitoring, AI-driven journalism and the Hack23 ISMS independent.
+
 
 ---
 
-## 🎯 Core Service Areas
+## 🌍 The Hack23 Ecosystem
 
-<table>
-  <tr>
-    <th>Area</th>
-    <th>Services</th>
-    <th>Ideal for</th>
-  </tr>
-  <tr>
-    <td>🏗️ Security Architecture & Strategy</td>
-    <td>
-      Enterprise Security Architecture: Design and implementation of comprehensive security frameworks<br>
-      Risk Assessment & Management: Systematic identification and mitigation of security risks<br>
-      Security Strategy Development: Alignment of security initiatives with business objectives<br>
-      Governance Framework Design: Policy development and security awareness programs
-    </td>
-    <td>Organizations needing strategic security leadership and architectural guidance</td>
-  </tr>
-  <tr>
-    <td>☁️ Cloud Security & DevSecOps</td>
-    <td>
-      Secure Cloud Solutions: AWS security assessment and architecture (Advanced level)<br>
-      DevSecOps Integration: Security seamlessly integrated into agile development processes<br>
-      Infrastructure as Code Security: Secure CloudFormation, Terraform implementations<br>
-      Container & Serverless Security: Modern application security best practices
-    </td>
-    <td>Development teams transitioning to cloud-native architectures with security focus</td>
-  </tr>
-  <tr>
-    <td>🔧 Secure Development & Code Quality</td>
-    <td>
-      Secure SDLC Implementation: Building security into development lifecycles<br>
-      CI/CD Security Integration: Automated security testing and validation<br>
-      Code Quality & Security Analysis: Static analysis, vulnerability scanning<br>
-      Supply Chain Security: SLSA Level 3 compliance, SBOM implementation
-    </td>
-    <td>Development teams seeking to embed security without slowing innovation</td>
-  </tr>
-</table>
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#0066CC","primaryTextColor":"#fff","primaryBorderColor":"#003366","lineColor":"#94A3B8","secondaryColor":"#003399","tertiaryColor":"#7B1FA2","background":"#0F172A"}}}%%
+graph TB
+    subgraph CONSULT["💼 Hack23 AB — Cybersecurity Consulting"]
+        SVC["🔑 Services<br/>hack23.com/services.html<br/>Architecture · Cloud · DevSecOps · Compliance"]
+        ISMS["🔓 Public ISMS<br/>github.com/Hack23/ISMS-PUBLIC<br/>38 policies · ISO 27001:2022 · NIST CSF 2.0"]
+        BLOG["🍎 Discordian Blog<br/>hack23.com/blog.html<br/>30+ posts · 8 languages"]
+    end
 
----
+    subgraph SOURCES["📡 Primary Open Data"]
+        EP["🇪🇺 European Parliament<br/>data.europarl.europa.eu"]
+        RD["🇸🇪 Riksdagen<br/>data.riksdagen.se"]
+        REG["🇸🇪 Regeringskansliet<br/>regeringen.se"]
+    end
 
-## 🏆 Specialized Expertise
+    subgraph MCP["🔌 MCP Servers (AI Bridges)"]
+        EPMCP["🇪🇺 European-Parliament-MCP-Server<br/>npm: european-parliament-mcp-server<br/>62 tools · 9 resources · 7 prompts"]
+    end
 
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Services</th>
-    <th>Value</th>
-  </tr>
-  <tr>
-    <td>📋 Compliance & Regulatory</td>
-    <td>
-      Regulatory Compliance: GDPR, NIS2, ISO 27001 implementation<br>
-      ISMS Design & Implementation: Information Security Management Systems<br>
-      AI Governance: Emerging AI risk management frameworks<br>
-      Audit Preparation: Documentation and evidence preparation
-    </td>
-    <td>Navigate complex regulatory landscapes with confidence</td>
-  </tr>
-  <tr>
-    <td>🌐 Open Source Security</td>
-    <td>
-      Open Source Program Office: OSPO establishment and management<br>
-      Vulnerability Management: Open source risk assessment and remediation<br>
-      Security Tool Development: Custom security solutions and automation<br>
-      Community Engagement: Open source security best practices
-    </td>
-    <td>Leverage open source securely while contributing to security transparency</td>
-  </tr>
-  <tr>
-    <td>🎓 Security Culture & Training</td>
-    <td>
-      Security Awareness Programs: Building organization-wide security culture<br>
-      Developer Security Training: Secure coding practices and methodologies<br>
-      Leadership Security Briefings: Executive-level security understanding<br>
-      Incident Response Training: Preparedness and response capability building
-    </td>
-    <td>Transform security from barrier to enabler through education and culture</td>
-  </tr>
-</table>
+    subgraph CIVIC["🏛️ Civic-Tech Platforms (Apache 2.0)"]
+        CIA["🕵️ Citizen Intelligence Agency<br/>github.com/Hack23/cia<br/>Java 26 · Spring · 110 DB views · 1971–2024"]
+        RM["🗳️ Riksdagsmonitor<br/>riksdagsmonitor.com<br/>11 agentic workflows · 14 languages"]
+        EUM["🇪🇺 EU Parliament Monitor<br/>euparliamentmonitor.com<br/>9 agentic workflows · 14 languages"]
+    end
+
+    subgraph PRODUCT["📋 Products & Platforms"]
+        CCM["📋 CIA Compliance Manager<br/>ciacompliancemanager.com<br/>npm: cia-compliance-manager<br/>React 19 · TypeScript 6"]
+        BT["🥋 Black Trigram<br/>blacktrigram.com<br/>npm: blacktrigram<br/>Three.js · React 19 · 70 vital points"]
+        GAME["🎮 Game Template<br/>github.com/Hack23/game<br/>SLSA 3 secure-by-default starter"]
+    end
+
+    subgraph AUDIENCE["👥 Audience"]
+        USERS["Citizens · Journalists · Researchers · NGOs · Security teams · AI assistants (Claude · Cursor · Copilot · VS Code)"]
+    end
+
+    EP --> EPMCP
+    EPMCP --> EUM
+    RD --> CIA
+    REG --> CIA
+    CIA -->|"15 subsystems · nightly sync"| RM
+    EUM --> USERS
+    RM --> USERS
+    CIA --> USERS
+    CCM --> USERS
+    BT --> USERS
+    EPMCP -.->|"AI assistants"| USERS
+    SVC --> USERS
+    ISMS --> CIVIC
+    ISMS --> PRODUCT
+    BLOG --> USERS
+
+    style CONSULT fill:#003366,stroke:#0066CC,color:#fff
+    style ISMS fill:#0066CC,stroke:#003366,color:#fff
+    style EPMCP fill:#6366F1,stroke:#4F46E5,color:#fff
+    style CIA fill:#006B3F,stroke:#003F25,color:#fff
+    style RM fill:#00338D,stroke:#FECC00,color:#fff
+    style EUM fill:#003399,stroke:#FFCC00,color:#fff
+    style CCM fill:#0066CC,stroke:#003366,color:#fff
+    style BT fill:#000000,stroke:#FFD700,color:#FFD700
+```
+
+> **Single mission, one ISMS, one license (Apache-2.0), one set of compliance frameworks** — applied identically across consulting, civic-tech and commercial products.
 
 ---
 
-## 💡 Why Choose Hack23 Security Services?
+## 🚀 Flagship Open-Source Projects
 
-Three decades of hands-on experience in software development and security architecture means we understand the real challenges development teams face. We don't just point out problems—we provide practical, implementable solutions that enhance security without slowing down innovation.
+Each project has its own ISMS-aligned `SECURITY_ARCHITECTURE.md`, `THREAT_MODEL.md`, OpenSSF Scorecard, OpenSSF Best Practices badge, SLSA 3 attestation and SonarCloud quality gate.
 
-**Our approach:** Security should be seamlessly integrated into your existing processes, not bolted on afterward. We help organizations build a culture of security awareness where protection becomes a natural part of how teams work, not an obstacle to overcome.
+### 🗳️ Riksdagsmonitor — Swedish Political Intelligence
 
-**Passionate about transparency:** As advocates for open source security, we believe in sharing knowledge and building community. Our solutions are designed to be understandable, maintainable, and aligned with industry best practices.
+> AI-driven monitoring of Sweden's Riksdag, Government and public agencies — 349 current MPs, 2,494 historical politicians (1971–2024), 3.5M+ votes, 109,000+ documents, **14 languages**, every day.
+
+<p>
+  <a href="https://riksdagsmonitor.com"><img src="https://img.shields.io/badge/🌐_Live-riksdagsmonitor.com-00338D?style=flat-square&logoColor=FECC00" alt="Riksdagsmonitor live platform"/></a>
+  <a href="https://github.com/Hack23/riksdagsmonitor"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Friksdagsmonitor-181717?style=flat-square&logo=github&logoColor=white" alt="Riksdagsmonitor source on GitHub"/></a>
+  <a href="https://www.npmjs.com/package/riksdagsmonitor"><img src="https://img.shields.io/npm/v/riksdagsmonitor.svg?style=flat-square&logo=npm&label=npm" alt="riksdagsmonitor npm package"/></a>
+  <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/riksdagsmonitor"><img src="https://api.securityscorecards.dev/projects/github.com/Hack23/riksdagsmonitor/badge?style=flat-square" alt="OpenSSF Scorecard for Riksdagsmonitor"/></a>
+  <a href="https://www.bestpractices.dev/projects/12069"><img src="https://www.bestpractices.dev/projects/12069/badge" alt="OpenSSF Best Practices badge for Riksdagsmonitor"/></a>
+  <a href="https://deepwiki.com/Hack23/riksdagsmonitor"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki about Riksdagsmonitor"/></a>
+  <a href="https://github.com/Hack23/riksdagsmonitor/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Hack23/riksdagsmonitor?style=flat-square" alt="Riksdagsmonitor license"/></a>
+</p>
+
+🔗 **Surfaces:** [Live](https://riksdagsmonitor.com) · [Political Intelligence Hub](https://riksdagsmonitor.com/political-intelligence.html) · [AI Newsroom](https://riksdagsmonitor.com/news/index.html) · [Dashboard](https://riksdagsmonitor.com/dashboard/index.html) · [Sitemap](https://riksdagsmonitor.com/sitemap.html) · [Features](https://hack23.com/riksdagsmonitor-features.html) · [Docs](https://hack23.com/riksdagsmonitor-docs.html)
+
+### 🇪🇺 EU Parliament Monitor — European Political Intelligence
+
+> Brussels and Strasbourg made readable. AI-newsroom over the European Parliament's open data — 8 unified gh-aw workflows, 51 analytical artifacts per run, **14 languages**, 1,700+ daily artifacts, full Admiralty / WEP / SAT / ACH tradecraft.
+
+<p>
+  <a href="https://euparliamentmonitor.com"><img src="https://img.shields.io/badge/🌐_Live-euparliamentmonitor.com-003399?style=flat-square&logoColor=FFCC00" alt="EU Parliament Monitor live platform"/></a>
+  <a href="https://github.com/Hack23/euparliamentmonitor"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Feuparliamentmonitor-181717?style=flat-square&logo=github&logoColor=white" alt="EU Parliament Monitor source on GitHub"/></a>
+  <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/euparliamentmonitor"><img src="https://api.securityscorecards.dev/projects/github.com/Hack23/euparliamentmonitor/badge?style=flat-square" alt="OpenSSF Scorecard for EU Parliament Monitor"/></a>
+  <a href="https://www.bestpractices.dev/projects/12068"><img src="https://www.bestpractices.dev/projects/12068/badge" alt="OpenSSF Best Practices badge for EU Parliament Monitor"/></a>
+  <a href="https://github.com/Hack23/euparliamentmonitor/attestations"><img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA Level 3 attestations for EU Parliament Monitor"/></a>
+  <a href="https://deepwiki.com/Hack23/euparliamentmonitor"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki about EU Parliament Monitor"/></a>
+  <a href="https://github.com/Hack23/euparliamentmonitor/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Hack23/euparliamentmonitor?style=flat-square" alt="EU Parliament Monitor license"/></a>
+</p>
+
+🔗 **Surfaces:** [Live](https://euparliamentmonitor.com) · [Political Intelligence Hub](https://euparliamentmonitor.com/political-intelligence.html) · [Sitemap](https://euparliamentmonitor.com/sitemap.html) · [API Docs](https://euparliamentmonitor.com/docs/api/) · [Features](https://hack23.com/euparliamentmonitor-features.html) · [Docs](https://hack23.com/euparliamentmonitor-docs.html)
+
+### 🔌 European Parliament MCP Server — AI Data Backbone
+
+> Canonical TypeScript Model Context Protocol server bridging the **European Parliament Open Data Portal v2** to any MCP-aware AI client (Claude Desktop, VS Code, Cursor, GitHub Copilot). 62 tools, 9 resources, 7 prompts, full GDPR-by-design.
+
+<p>
+  <a href="https://github.com/Hack23/European-Parliament-MCP-Server"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2FEuropean--Parliament--MCP--Server-181717?style=flat-square&logo=github&logoColor=white" alt="European Parliament MCP Server source on GitHub"/></a>
+  <a href="https://www.npmjs.com/package/european-parliament-mcp-server"><img src="https://img.shields.io/npm/v/european-parliament-mcp-server.svg?style=flat-square&logo=npm&label=npm" alt="european-parliament-mcp-server npm package"/></a>
+  <a href="https://www.npmjs.com/package/european-parliament-mcp-server"><img src="https://img.shields.io/npm/dm/european-parliament-mcp-server.svg?style=flat-square&logo=npm&label=downloads" alt="european-parliament-mcp-server npm monthly downloads"/></a>
+  <a href="https://www.bestpractices.dev/projects/12067"><img src="https://www.bestpractices.dev/projects/12067/badge" alt="OpenSSF Best Practices badge for European Parliament MCP Server"/></a>
+  <a href="https://deepwiki.com/Hack23/European-Parliament-MCP-Server"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki about European Parliament MCP Server"/></a>
+  <a href="https://hack23.github.io/European-Parliament-MCP-Server/"><img src="https://img.shields.io/badge/📚_Docs_Portal-TypeDoc-blue?style=flat-square&logo=typescript" alt="European Parliament MCP Server documentation portal"/></a>
+</p>
+
+🔗 **Surfaces:** [Repository](https://github.com/Hack23/European-Parliament-MCP-Server) · [npm](https://www.npmjs.com/package/european-parliament-mcp-server) · [API Docs](https://hack23.github.io/European-Parliament-MCP-Server/api/) · [Features](https://hack23.com/european-parliament-mcp-features.html) · [Docs](https://hack23.com/european-parliament-mcp-docs.html)
+
+### 🕵️ Citizen Intelligence Agency (CIA) — Sweden's Data Backbone
+
+> Java/Spring/Vaadin OSINT platform monitoring Sweden's Riksdag, Government and Myndigheter since 2008. **110 database views, 50 risk-detection rules, 1971–2024 longitudinal coverage, 3.5M+ votes, 109K+ documents.** The data backbone behind Riksdagsmonitor.
+
+<p>
+  <a href="https://github.com/Hack23/cia"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Fcia-181717?style=flat-square&logo=github&logoColor=white" alt="Citizen Intelligence Agency source on GitHub"/></a>
+  <a href="https://hack23.github.io/cia/"><img src="https://img.shields.io/badge/🌐_Maven_Site-hack23.github.io%2Fcia-006B3F?style=flat-square" alt="Citizen Intelligence Agency Maven site"/></a>
+  <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/cia"><img src="https://api.securityscorecards.dev/projects/github.com/Hack23/cia/badge?style=flat-square" alt="OpenSSF Scorecard for Citizen Intelligence Agency"/></a>
+  <a href="https://bestpractices.coreinfrastructure.org/projects/770"><img src="https://bestpractices.coreinfrastructure.org/projects/770/badge" alt="CII Best Practices badge for Citizen Intelligence Agency"/></a>
+  <a href="https://github.com/Hack23/cia/attestations"><img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA Level 3 attestations for Citizen Intelligence Agency"/></a>
+  <a href="https://sonarcloud.io/summary/new_code?id=Hack23_cia"><img src="https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia&metric=alert_status" alt="SonarCloud quality gate for Citizen Intelligence Agency"/></a>
+  <a href="https://deepwiki.com/Hack23/cia"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki about Citizen Intelligence Agency"/></a>
+  <a href="https://github.com/Hack23/cia/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/Hack23/cia?style=flat-square" alt="Citizen Intelligence Agency license"/></a>
+</p>
+
+🔗 **Surfaces:** [Repository](https://github.com/Hack23/cia) · [Architecture](https://github.com/Hack23/cia/blob/master/ARCHITECTURE.md) · [Security Architecture](https://github.com/Hack23/cia/blob/master/SECURITY_ARCHITECTURE.md) · [Threat Model](https://github.com/Hack23/cia/blob/master/THREAT_MODEL.md) · [Features](https://hack23.com/cia-features.html) · [Docs](https://hack23.com/cia-docs.html)
+
+### 📋 CIA Compliance Manager — Browser-Based GRC
+
+> React 19 / TypeScript 6 platform for **CIA-triad assessment, multi-framework compliance, threat modeling and business-impact quantification**. Available as a live web app and a tree-shakeable npm library with 10 subpath exports.
+
+<p>
+  <a href="https://ciacompliancemanager.com"><img src="https://img.shields.io/badge/🌐_Live-ciacompliancemanager.com-0066CC?style=flat-square" alt="CIA Compliance Manager live application"/></a>
+  <a href="https://github.com/Hack23/cia-compliance-manager"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Fcia--compliance--manager-181717?style=flat-square&logo=github&logoColor=white" alt="CIA Compliance Manager source on GitHub"/></a>
+  <a href="https://www.npmjs.com/package/cia-compliance-manager"><img src="https://img.shields.io/npm/v/cia-compliance-manager.svg?style=flat-square&logo=npm&label=npm" alt="cia-compliance-manager npm package"/></a>
+  <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/cia-compliance-manager"><img src="https://api.securityscorecards.dev/projects/github.com/Hack23/cia-compliance-manager/badge?style=flat-square" alt="OpenSSF Scorecard for CIA Compliance Manager"/></a>
+  <a href="https://www.bestpractices.dev/projects/10365"><img src="https://www.bestpractices.dev/projects/10365/badge" alt="OpenSSF Best Practices badge for CIA Compliance Manager"/></a>
+  <a href="https://github.com/Hack23/cia-compliance-manager/attestations"><img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA Level 3 attestations for CIA Compliance Manager"/></a>
+  <a href="https://deepwiki.com/Hack23/cia-compliance-manager"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki about CIA Compliance Manager"/></a>
+</p>
+
+🔗 **Surfaces:** [Live App](https://ciacompliancemanager.com) · [npm](https://www.npmjs.com/package/cia-compliance-manager) · [API Docs](https://ciacompliancemanager.com/docs/api/) · [Features](https://hack23.com/cia-compliance-manager-features.html) · [Docs](https://hack23.com/cia-compliance-manager-docs.html)
+
+### 🥋 Black Trigram (흑괘) — Korean Martial-Arts Combat Simulator
+
+> Production-ready 3D precision combat simulator. **Eight I Ching trigram stances · 70 vital points · 51 authentic Korean martial-arts techniques · 5 fighter archetypes · 60fps desktop / 55fps+ mobile**. React 19 · Three.js · TypeScript 6 · Vite 8.
+
+<p>
+  <a href="https://blacktrigram.com"><img src="https://img.shields.io/badge/🎮_Play-blacktrigram.com-FFD700?style=flat-square&labelColor=000000" alt="Play Black Trigram live"/></a>
+  <a href="https://github.com/Hack23/blacktrigram"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Fblacktrigram-181717?style=flat-square&logo=github&logoColor=white" alt="Black Trigram source on GitHub"/></a>
+  <a href="https://www.npmjs.com/package/blacktrigram"><img src="https://img.shields.io/npm/v/blacktrigram.svg?style=flat-square&logo=npm&label=npm" alt="blacktrigram npm package"/></a>
+  <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/blacktrigram"><img src="https://api.securityscorecards.dev/projects/github.com/Hack23/blacktrigram/badge?style=flat-square" alt="OpenSSF Scorecard for Black Trigram"/></a>
+  <a href="https://www.bestpractices.dev/projects/10777"><img src="https://www.bestpractices.dev/projects/10777/badge" alt="OpenSSF Best Practices badge for Black Trigram"/></a>
+  <a href="https://github.com/Hack23/blacktrigram/attestations"><img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA Level 3 attestations for Black Trigram"/></a>
+  <a href="https://deepwiki.com/Hack23/blacktrigram"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki about Black Trigram"/></a>
+</p>
+
+🔗 **Surfaces:** [Play](https://blacktrigram.com) · [API Docs](https://hack23.github.io/blacktrigram/) · [Security Architecture](https://github.com/Hack23/blacktrigram/blob/main/SECURITY_ARCHITECTURE.md) · [Threat Model](https://github.com/Hack23/blacktrigram/blob/main/THREAT_MODEL.md) · [Features](https://hack23.com/black-trigram-features.html) · [Docs](https://hack23.com/black-trigram-docs.html)
+
+### 🎮 Game Template — Secure-by-Default Game Starter
+
+> Reference implementation of a secure web-game project: **React + TypeScript + Three.js + Vite**, SLSA 3, full SBOM, automated security testing, ISMS-policy mapping ready to fork.
+
+<p>
+  <a href="https://github.com/Hack23/game"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Fgame-181717?style=flat-square&logo=github&logoColor=white" alt="Hack23 secure game template"/></a>
+  <a href="https://github.com/Hack23/game/blob/master/docs/ISMS_POLICY_MAPPING.md"><img src="https://img.shields.io/badge/📋_ISMS-Policy_Mapping-0066CC?style=flat-square" alt="Game template ISMS policy mapping"/></a>
+</p>
 
 
+### ☁️ Lambda in Private VPC — AWS Reference Architecture
 
-### 🏛️ CIA Compliance Manager Documentation
+> Battle-tested reference implementation: **AWS Lambda in a private VPC with VPC endpoints, CloudFront, WAF, KMS encryption, CloudTrail and Security Hub** integration.
+
+<p>
+  <a href="https://github.com/Hack23/aws-lambda-private-vpc"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Faws--lambda--private--vpc-181717?style=flat-square&logo=github&logoColor=white" alt="AWS Lambda in private VPC reference architecture"/></a>
+  <a href="https://hack23.com/blog.html"><img src="https://img.shields.io/badge/📝_Tutorial-hack23.com%2Fblog-FF5722?style=flat-square" alt="Tutorial on hack23.com blog"/></a>
+</p>
+
+### 🧪 Sonar-CloudFormation-Plugin — Infrastructure-as-Code Static Analysis
+
+> Open-source SonarQube plugin that brings **CloudFormation IaC scanning** into existing SonarQube/SonarCloud quality gates.
+
+<p>
+  <a href="https://github.com/Hack23/sonar-cloudformation-plugin"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Fsonar--cloudformation--plugin-181717?style=flat-square&logo=github&logoColor=white" alt="Sonar CloudFormation plugin source on GitHub"/></a>
+  <a href="https://sonarcloud.io/organizations/hack23/projects"><img src="https://img.shields.io/badge/SonarCloud-Hack23-F3702A?style=flat-square&logo=sonarcloud&logoColor=white" alt="Hack23 SonarCloud organisation"/></a>
+</p>
+
+---
+
+## 🛡️ Public ISMS — `Hack23/ISMS-PUBLIC`
+
+> **A fully public, version-controlled, machine-verifiable Information Security Management System.** 38 policies covering access control, cryptography, secure development, threat modeling, vulnerability management, AI governance, GDPR privacy, EU CRA, ISO 27001:2022, NIST CSF 2.0, CIS Controls v8.1.
+
+<p>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2FISMS--PUBLIC-0066CC?style=for-the-badge&logo=github&logoColor=white" alt="Hack23 public ISMS repository"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md"><img src="https://img.shields.io/badge/🔐_Information_Security-Policy-0066CC?style=for-the-badge" alt="Information Security Policy"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Compliance_Checklist.md"><img src="https://img.shields.io/badge/✅_Compliance-Checklist-2E7D32?style=for-the-badge" alt="ISMS compliance checklist"/></a>
+</p>
+
+| Domain | Key Policies |
+|:-------|:-------------|
+| 🛠️ **Secure Development** | [Secure Development Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Secure_Development_Policy.md) · [Threat Modeling](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Threat_Modeling.md) · [Vulnerability Management](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Vulnerability_Management.md) · [Change Management](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Change_Management.md) |
+| 🔑 **Access &amp; Identity** | [Access Control Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Access_Control_Policy.md) · [Segregation of Duties](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Segregation_of_Duties_Policy.md) · [Mobile Device Management](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Mobile_Device_Management_Policy.md) |
+| 🌐 **Network &amp; Crypto** | [Network Security Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Network_Security_Policy.md) · [Cryptography Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Cryptography_Policy.md) |
+| 💾 **Continuity** | [Backup &amp; Recovery](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Backup_Recovery_Policy.md) · [Business Continuity Plan](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Business_Continuity_Plan.md) · [Disaster Recovery Plan](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Disaster_Recovery_Plan.md) |
+| 🚨 **Incident** | [Incident Response Plan](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Incident_Response_Plan.md) |
+| 🤖 **AI &amp; LLM** | [AI Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/AI_Policy.md) · [OWASP LLM Security Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/OWASP_LLM_Security_Policy.md) |
+| 📊 **Risk &amp; Compliance** | [Risk Register](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Risk_Register.md) · [Risk Assessment Methodology](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Risk_Assessment_Methodology.md) · [Compliance Checklist](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Compliance_Checklist.md) · [Security Metrics](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Security_Metrics.md) · [ISMS Metrics Dashboard](https://github.com/Hack23/ISMS-PUBLIC/blob/main/ISMS_METRICS_DASHBOARD.md) |
+| 🇪🇺 **Regulatory** | [Privacy Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Privacy_Policy.md) (GDPR) · [CRA Conformity Assessment Process](https://github.com/Hack23/ISMS-PUBLIC/blob/main/CRA_Conformity_Assessment_Process.md) (EU CRA) · [ISO 5230 Self-Certification](https://github.com/Hack23/ISMS-PUBLIC/blob/main/ISO_5230_Self_Certification.md) |
+| 🌟 **Transparency** | [ISMS Transparency Plan](https://github.com/Hack23/ISMS-PUBLIC/blob/main/ISMS_Transparency_Plan.md) · [Open Source Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Open_Source_Policy.md) · [STYLE_GUIDE](https://github.com/Hack23/ISMS-PUBLIC/blob/main/STYLE_GUIDE.md) |
+
+> 🌟 **Why public?** Because security claims must be auditable. Every customer, regulator, journalist or curious citizen can read, fork, critique or reuse our ISMS — and can independently verify that what we ship matches what we say.
+
+---
+
+## 🔑 Cybersecurity Consulting Services
+
+We deliver hands-on, evidence-based cybersecurity work across five practice areas. Read the full service catalogue at **[hack23.com/services.html](https://hack23.com/services.html)**.
 
 <table>
   <tr>
-    <td width="50%">
-      <h4>Current Architecture</h4>
-      <ul>
-        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/ARCHITECTURE.md">🏛️ System Architecture</a></li>
-        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/STATEDIAGRAM.md">🔄 Security State Diagrams</a></li>
-        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FLOWCHART.md">📊 Process Flowcharts</a></li>
-        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/MINDMAP.md">🧠 System Mindmaps</a></li>
-        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/SWOT.md">💼 SWOT Analysis</a></li>
-        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/WORKFLOWS.md">🔧 CI/CD Workflows</a></li>
-      </ul>
+    <th>🔐 Security Architecture</th>
+    <th>☁️ Cloud Security &amp; DevSecOps</th>
+    <th>📋 Compliance &amp; Regulatory</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      Threat modeling (STRIDE, MITRE ATT&amp;CK), zero-trust architecture, secure SDLC, OWASP Top 10 / SAMM, identity &amp; access, cryptography &amp; key management.<br><br>
+      <a href="https://hack23.com/services.html#security-architecture"><strong>Read more →</strong></a>
     </td>
-    <td width="50%">
-      <h4>Future Vision</h4>
-      <ul>
-        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_ARCHITECTURE.md">🔮 Future Architecture</a></li>
-        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_STATEDIAGRAM.md">🔮 Future State Diagrams</a></li>
-        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_FLOWCHART.md">🔮 Future Workflows</a></li>
-        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_MINDMAP.md">🔮 Future Mindmaps</a></li>
-        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_SWOT.md">🔮 Future SWOT Analysis</a></li>
-        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_DATA_MODEL.md">🔮 Future Data Model</a></li>
-      </ul>
+    <td valign="top">
+      AWS Well-Architected (Security pillar), VPC &amp; WAF design, IAM least-privilege, GuardDuty / Security Hub / KMS / CloudTrail, GitHub Actions hardening, SLSA 3, SBOM.<br><br>
+      <a href="https://hack23.com/services.html#cloud-security-devsecops"><strong>Read more →</strong></a>
+    </td>
+    <td valign="top">
+      ISO 27001:2022, NIST CSF 2.0, CIS Controls v8.1, GDPR, NIS2, EU CRA, AI Act, SOC 2 readiness, supplier due-diligence, SBOM &amp; ISO 5230 alignment.<br><br>
+      <a href="https://hack23.com/services.html#compliance-regulatory"><strong>Read more →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <th>🌐 Open Source &amp; OSPO</th>
+    <th>🎓 Training &amp; Security Culture</th>
+    <th>🤖 AI Governance</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      OSPO setup, license &amp; SBOM management, contributor agreements, OpenSSF Scorecard adoption, supply-chain hardening, FOSSA / FOSDEM workflows.<br><br>
+      <a href="https://hack23.com/services.html#open-source-ospo"><strong>Read more →</strong></a>
+    </td>
+    <td valign="top">
+      Tabletop exercises, secure-coding workshops, threat-modeling clinics, executive briefings, Discordian-style narrative training that actually sticks.<br><br>
+      <a href="https://hack23.com/services.html#training-security-culture"><strong>Read more →</strong></a>
+    </td>
+    <td valign="top">
+      OWASP LLM Top 10, AI Act readiness, prompt-injection defence, agentic-workflow review (gh-aw), MCP server hardening, AI-in-CI/CD risk assessment.<br><br>
+      <a href="https://hack23.com/services.html#ai-governance"><strong>Read more →</strong></a>
     </td>
   </tr>
 </table>
 
-### 🏛️ Citizen Intelligence Agency Documentation
+📨 **Engage us:** <https://hack23.com/contact.html> · LinkedIn: <https://www.linkedin.com/in/jamessorling/>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>Current Architecture</h4>
-      <ul>
-        <li><a href="https://github.com/Hack23/cia/blob/master/ARCHITECTURE.md">🏛️ System Architecture</a></li>
-        <li><a href="https://github.com/Hack23/cia/blob/master/SECURITY_ARCHITECTURE.md">🔒 Security Architecture</a></li>
-        <li><a href="https://github.com/Hack23/cia/blob/master/DATA_MODEL.md">💾 Data Model</a></li>
-        <li><a href="https://github.com/Hack23/cia/blob/master/FLOWCHART.md">📊 Process Flowcharts</a></li>
-        <li><a href="https://github.com/Hack23/cia/blob/master/MINDMAP.md">🧠 System Mindmaps</a></li>
-        <li><a href="https://github.com/Hack23/cia/blob/master/SWOT.md">💼 SWOT Analysis</a></li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>Future Vision & Operations</h4>
-      <ul>
-        <li><a href="https://github.com/Hack23/cia/blob/master/FUTURE_ARCHITECTURE.md">🔮 Future Architecture</a></li>
-        <li><a href="https://github.com/Hack23/cia/blob/master/FUTURE_SECURITY_ARCHITECTURE.md">🔮 Future Security Architecture</a></li>
-        <li><a href="https://github.com/Hack23/cia/blob/master/FUTURE_DATA_MODEL.md">🔮 Future Data Model</a></li>
-        <li><a href="https://github.com/Hack23/cia/blob/master/FinancialSecurityPlan.md">💰 Financial Security Plan</a></li>
-        <li><a href="https://github.com/Hack23/cia/blob/master/End-of-Life-Strategy.md">📅 End-of-Life Strategy</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+---
 
-### 🇪🇺 EU Parliament Monitor Documentation
+## 🍎 Discordian Cybersecurity Blog — `hack23.com/blog.html`
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>Current Architecture</h4>
-      <ul>
-        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/ARCHITECTURE.md">🏛️ System Architecture</a></li>
-        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/SECURITY_ARCHITECTURE.md">🔒 Security Architecture</a></li>
-        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/DATA_MODEL.md">💾 Data Model</a></li>
-        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/FLOWCHART.md">📊 Process Flowcharts</a></li>
-        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/MINDMAP.md">🧠 System Mindmaps</a></li>
-        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/SWOT.md">💼 SWOT Analysis</a></li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>Future Vision</h4>
-      <ul>
-        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/FUTURE_ARCHITECTURE.md">🔮 Future Architecture</a></li>
-        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/FUTURE_SECURITY_ARCHITECTURE.md">🔮 Future Security Architecture</a></li>
-        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/FUTURE_DATA_MODEL.md">🔮 Future Data Model</a></li>
-        <li><a href="https://github.com/Hack23/euparliamentmonitor/blob/main/THREAT_MODEL.md">🛡️ Threat Model</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+> **30+ posts** of accessible, narrative-driven security writing — every post maps back to formal ISMS policies and reference implementations.
 
-### 🔌 European Parliament MCP Server Documentation
+<p>
+  <a href="https://hack23.com/blog.html"><img src="https://img.shields.io/badge/🍎_Read_the_Blog-hack23.com%2Fblog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Read the Discordian cybersecurity blog at hack23.com/blog.html"/></a>
+  <a href="https://hack23.com/manifesto.html"><img src="https://img.shields.io/badge/📜_Manifesto-Discordian-FFD700?style=for-the-badge" alt="Hack23 Discordian manifesto"/></a>
+</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>Current Architecture</h4>
-      <ul>
-        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/ARCHITECTURE.md">🏛️ System Architecture</a></li>
-        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/SECURITY_ARCHITECTURE.md">🔒 Security Architecture</a></li>
-        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/DATA_MODEL.md">💾 Data Model</a></li>
-        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/FLOWCHART.md">📊 Process Flowcharts</a></li>
-        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/MINDMAP.md">🧠 System Mindmaps</a></li>
-        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/SWOT.md">💼 SWOT Analysis</a></li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>Developer Resources</h4>
-      <ul>
-        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/API_USAGE_GUIDE.md">📖 API Usage Guide</a></li>
-        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/ARCHITECTURE_DIAGRAMS.md">🏗️ Architecture Diagrams</a></li>
-        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/FUTURE_SECURITY_ARCHITECTURE.md">🔮 Future Security Architecture</a></li>
-        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/DEPLOYMENT_GUIDE.md">🚀 Deployment Guide</a></li>
-        <li><a href="https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/PERFORMANCE_GUIDE.md">⚡ Performance Guide</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Selected pillar posts:
 
-## 🔑 Security Focus Areas
+- [🍎 The Discordian Manifesto for Cybersecurity](https://hack23.com/manifesto.html)
+- [🛡️ Building a Public ISMS — Why &amp; How](https://hack23.com/blog.html)
+- [🔌 What Is the Model Context Protocol (and How We Use It for Open Government Data)](https://hack23.com/blog.html)
+- [🤖 Agentic Workflows for Political Journalism — gh-aw, Claude Opus, Zero Editors](https://hack23.com/blog.html)
+- [🇪🇺 EU Cyber Resilience Act — A Self-Assessment Walkthrough](https://hack23.com/blog.html)
 
-<div align="center">
+→ Full archive at **[hack23.com/blog.html](https://hack23.com/blog.html)** (8 languages, JSON-LD structured data, full RSS).
+
+---
+
+## 👨‍💼 About — James Pether Sörling
+
+> **Founder &amp; CEO of Hack23 AB.** 25+ years in software security, cloud architecture, civic-tech and OSINT. Independent, non-partisan, opinionated about transparency.
+
+<p>
+  <a href="https://www.linkedin.com/in/jamessorling/"><img src="https://img.shields.io/badge/LinkedIn-jamessorling-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="James Pether Sörling on LinkedIn"/></a>
+  <a href="https://github.com/pethers"><img src="https://img.shields.io/badge/GitHub-pethers-181717?style=for-the-badge&logo=github&logoColor=white" alt="James Pether Sörling on GitHub"/></a>
+  <a href="https://hack23.com/about.html"><img src="https://img.shields.io/badge/About-hack23.com%2Fabout-00cc66?style=for-the-badge" alt="About James Pether Sörling on hack23.com"/></a>
+</p>
 
 ```mermaid
 mindmap
-  root((🔐 CIA Triad<br>Security Focus))
-    🔒 Confidentiality
-      🏷️ Data Classification
-        🌐 Public
-        🛡️ Restricted
-        🗝️ Confidential
-        🔒 Secret
-      🚪 Access Control
-        👥 RBAC Implementation
-        🔑 MFA Integration
-        📉 Least Privilege
-      🔑 Encryption
-        🧬 AES-256
-        🧿 Quantum-Safe Encryption
-        🗝️ KMS Integration
-    ✔️ Integrity
-      🧪 Data Validation
-        👁️ Manual Checks
-        🤖 Automated Validation
-        🔗 Blockchain Records
-      🔄 Change Control
-        📝 Audit Trails
-        ♻️ Versioning
-        🛡️ Non-Repudiation
-      🏆 Quality Assurance
-        🧑‍💻 Code Analysis
-        🧩 Test Coverage
-        🏅 SLSA Level 3
-    ⏰ Availability
-      🛡️ Resilience Levels
-        💾 Backup/Restore
-        🔥 Pilot Light
-        ♨️ Warm Standby
-        🌐 Multi-Site Active/Active
-      📊 Recovery Metrics
-        🕑 RTO Targets
-        ⏳ RPO Objectives
-        📈 Uptime SLAs
-      👀 Monitoring
-        ❤️ Health Checks
-        🚨 Alerting
-        💥 Chaos Testing
+  root((👨‍💼 James Pether Sörling<br/>CEO · Hack23 AB))
+    🔐 Security
+      Architecture
+      Threat modeling
+      Cryptography
+      AppSec / OWASP
+    ☁️ Cloud
+      AWS Solutions Architect
+      Well-Architected
+      DevSecOps
+      Lambda · VPC · KMS · WAF
+    🛡️ Compliance
+      ISO 27001:2022
+      NIST CSF 2.0
+      CIS Controls v8.1
+      GDPR · NIS2 · EU CRA · AI Act
+    🌐 Open Source
+      Apache 2.0 advocate
+      OSPO setup
+      Public ISMS author
+      OpenSSF Scorecard
+    🇸🇪 Civic Tech
+      OSINT tradecraft
+      Riksdag · EU · Government data
+      AI political journalism
+      Democratic transparency
+    🍎 Discordian
+      Narrative security writing
+      30+ blog posts
+      Conference talks
 ```
 
-</div>
-
-
-## 🌟 Featured in Press & Media
-
-<table>
-  <tr>
-    <td width="25%">
-      <div align="center">
-        <h3>🗞️ Computer Sweden</h3>
-        <p>Featured article on innovative use of technology for political transparency</p>
-        <a href="https://computersweden.idg.se/2.2683/1.229120/tekniken-som-avslojar-politikerna">Read Article</a>
-      </div>
-    </td>
-    <td width="25%">
-      <div align="center">
-        <h3>📰 Riksdag och Departement</h3>
-        <p>Coverage on Citizen Intelligence Agency's monitoring capabilities</p>
-        <a href="https://web.archive.org/web/20090527045800/http:/www.rod.se/Artikelarkiv/2009/CIA-haller-koll-pa-riksdagsledamoterna/">Read Article</a>
-      </div>
-    </td>
-    <td width="25%">
-      <div align="center">
-        <h3>📊 National Democratic Institute</h3>
-        <p>Recognized in survey of parliamentary monitoring organizations</p>
-        <a href="https://www.ndi.org/sites/default/files/governance-parliamentary-monitoring-organizations-survey-september-2011.pdf">View Report</a>
-      </div>
-    </td>
-    <td width="25%">
-      <div align="center">
-        <h3>📰 Expressen</h3>
-        <p>Eric Erfors credits Citizen Intelligence Agency for exposing politician voting attendance records</p>
-        <a href="https://www.expressen.se/ledare/eric-erfors/eric-erfors-skolkaren-sahlin/">Read Article</a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 🎤 Technical Talks & Presentations
-
-<table>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <h3>🎙️ Javaforum Göteborg</h3>
-        <p>Presentation on secure architecture patterns</p>
-        <a href="https://www.youtube.com/watch?v=A_hq2Y03d6I">
-          <img src="https://img.shields.io/badge/Watch-Presentation-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Presentation">
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <h3>🎙️ Shift Left Like A Boss</h3>
-        <p>Security podcast guest appearance discussing DevSecOps</p>
-        <a href="https://www.youtube.com/watch?v=aYwSd1Wu28Q&ab_channel=Soluble">
-          <img src="https://img.shields.io/badge/Listen-Podcast-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Listen to Podcast">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 💼 About James Pether Sörling
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((👨‍💼 James Pether Sörling))
-    🔐 Information & Security Leadership
-      👨‍💼 CISO / ISO Roles
-      🛡️ Security Architecture
-      🧩 CIA Triad Implementation
-      🛠️ Policy Development & Governance
-      📊 Risk Management
-      🔍 Audit & Compliance Oversight
-      🤖 AI Governance
-      🌐 Open Source Program Office
-    🏛️ Frameworks & Compliance
-      📄 ISO 27001
-      📄 NIST 800-53
-      📄 VDA-ISA
-      📄 CIS Controls
-      🏷️ Data Protection / GDPR
-      📋 ISMS Implementation
-      🧪 Continuous Improvement
-    ☁️ Cloud & Platform Security
-      🌐 Multi-Cloud (AWS / Azure)
-      🏗️ Enterprise & Reference Architectures
-        🌍 Multi-Region Design
-        🔁 Resilience & Failover
-        ♻️ High Availability Patterns
-      🔒 Secure Cloud Services
-        Security Hub
-        GuardDuty
-        KMS
-        WAF
-      🧱 Network & VPC Security
-      🔑 IAM / Least Privilege
-    🛠️ Infrastructure as Code
-      🧾 CloudFormation
-      🛠️ Terraform
-      🔄 GitOps / Pipelines
-      🔍 Template Scanning
-      📦 Supply Chain (SLSA Level 3)
-    💻 Software Engineering
-      ☕ Java / Spring
-      ⚛️ React / TypeScript
-      🐘 PostgreSQL
-      🔄 CI/CD Automation
-      🧪 Automated Testing
-      🧵 Secure SDLC (SSDLC)
-      📈 Code Quality (SonarQube)
-    🔬 Security Operations & Assurance
-      🚨 Incident Response
-      🕵️ Vulnerability Management
-      📈 Security Monitoring
-      🧪 Threat Modeling
-      📜 Logging & SIEM Use
-    🌍 Open Source Leadership
-      📋 CIA Compliance Manager
-      🏛️ Citizen Intelligence Agency
-      🇪🇺 EU Parliament Monitor
-      🔌 European Parliament MCP Server
-      🧩 Sonar-CloudFormation-Plugin
-      🔧 cfn-nag Contributions
-      🤝 Community Engagement
-      👀 Code Review / Security Tooling
-    🏆 Certifications & Recognition
-      🎓 CISSP
-      🎓 CISM
-      🥇 AWS Security Specialty
-      🥇 AWS Solutions Architect Professional
-      🛡️ SLSA Level 3 Attestations
-    🚀 Strategic Impact
-      🔓 Transparency Advocacy
-      🧭 Security-by-Design Enablement
-      🧠 Knowledge Sharing / Speaking
-      📢 Public Policy & Civic Tech
-```
-
-</div>
-
-Experienced technology professional specializing in information security and delivery of secure cloud systems. Strong advocate for transparency in organizations and committed to ensuring robust security posture for modern applications through open source solutions.
-
-## 📫 Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jamessorling/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/Hack23"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://www.hack23.com/blog.html"><img src="https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
-  <a href="https://github.com/Hack23/talks"><img src="https://img.shields.io/badge/Tech_Talks-Watch-FF0000?style=for-the-badge&logo=youtube" alt="Tech Talks"/></a>
-</div>
-
-## 🗺️ Site Map Overview
-
-Hack23.com is a static, multi-language HTML/CSS site deployed to AWS S3 + CloudFront.  
-For the **authoritative, always up-to-date sitemap**, use the live page:
-
-- **🔗 Live Sitemap:** https://hack23.com/sitemap.html  
-
-The sections below mirror the structure of [`sitemap.html`](https://hack23.com/sitemap.html) with **direct, HTTPS links** and **icons aligned with the ISMS Style Guide**.
+→ Full bio, certifications and engagement options at **[hack23.com/about.html](https://hack23.com/about.html)**.
 
 ---
 
-### 🏠 Home & Company
+## 🎙️ Talks, Press &amp; Recognition
 
-**Mission, values, company details, and CIA Triad foundations.**
+<p>
+  <a href="https://github.com/Hack23/talks"><img src="https://img.shields.io/badge/🎙️_Talks-Hack23%2Ftalks-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Hack23 talks repository on GitHub"/></a>
+  <a href="https://hack23.com/press.html"><img src="https://img.shields.io/badge/📰_Press-hack23.com%2Fpress-181717?style=for-the-badge" alt="Hack23 press coverage"/></a>
+</p>
 
-- 🏠 **Homepage:** https://hack23.com/index.html  
-- 🧭 **Why Hack23?:** https://hack23.com/why-hack23.html  
-- 🔐 **CIA Triad FAQ (Confidentiality, Integrity, Availability):**  
-  https://hack23.com/cia-triad-faq.html  
+- 🎤 Conference talks on AWS security, OSINT, ISMS-as-code, Apache POI, agentic AI workflows, civic tech and parliamentary monitoring
+- 📰 Coverage on civic-tech transparency, parliamentary OSINT, Riksdagsmonitor and the Hack23 public ISMS
+- 🏅 OpenSSF Best Practices, OpenSSF Scorecard, SLSA Level 3, FOSSA license-clean across all flagship repos
 
----
-
-### 🔑 Security Services
-
-Professional cybersecurity consulting focused on **security architecture, cloud security, DevSecOps, and compliance** — with evidence-based practices and public ISMS.
-
-- 🔑 **All Services (overview):** https://hack23.com/services.html  
-  - 🏗️ **Security Architecture & Strategy:**  
-    https://hack23.com/services.html#security-architecture  
-  - ☁️ **Cloud Security & DevSecOps:**  
-    https://hack23.com/services.html#cloud-security  
-  - 📋 **Compliance & Regulatory:**  
-    https://hack23.com/services.html#compliance  
-- 🧾 **Security Assessment Checklist:**  
-  https://hack23.com/security-assessment-checklist.html  
+→ Slides &amp; recordings: **[github.com/Hack23/talks](https://github.com/Hack23/talks)** · Press: **[hack23.com/press.html](https://hack23.com/press.html)**
 
 ---
 
-### 🚀 Projects (Open-Source & Reference Implementations)
+## 🗺️ Site Map &amp; SEO Index
 
-Open-source and reference projects used as **live demonstrations of secure architecture, transparency, and practical security**.
+Every Hack23 surface is cross-linked for discoverability. Bookmark the [hack23.com sitemap](https://hack23.com/sitemap.html) for the human-readable index in 8 languages, or use the per-project links below.
 
-#### 🎮 Black Trigram (Security-Aware Game)
-
-Realistic 2D precision combat simulator based on traditional Korean martial arts, used as a **security-aware game and educational platform**.
-
-- 🎮 **Overview:** https://hack23.com/black-trigram.html  
-- ⭐ **Features:** https://hack23.com/black-trigram-features.html  
-- 📚 **Documentation:** https://hack23.com/black-trigram-docs.html  
-
-#### 🏛️ Citizen Intelligence Agency (CIA)
-
-Open-source parliamentary monitoring and OSINT platform analyzing Swedish politics.
-
-- 🏛️ **Overview:** https://hack23.com/cia-project.html  
-- ⭐ **Features:** https://hack23.com/cia-features.html  
-- 📚 **Documentation:** https://hack23.com/cia-docs.html  
-
-#### 📋 CIA Compliance Manager
-
-Browser-based compliance and CIA-triad assessment tool with no backend, focused on **risk, impact, and framework mapping**.
-
-- 📋 **Overview:** https://hack23.com/compliance-manager.html  
-- ⭐ **Features:** https://hack23.com/cia-compliance-manager-features.html  
-- 📚 **Documentation:** https://hack23.com/cia-compliance-manager-docs.html  
-
-#### 🗳️ Riksdagsmonitor
-
-Swedish Parliament Intelligence Platform monitoring political activity in Sweden's Riksdag with systematic transparency through real-time analysis and 50+ years of historical data (1971-2024).
-
-- 🌐 **Official Website:** https://riksdagsmonitor.com  
-- 📂 **Repository:** https://github.com/Hack23/riksdagsmonitor  
-- ⭐ **Features:** https://hack23.com/riksdagsmonitor-features.html  
-- 📚 **Documentation:** https://hack23.com/riksdagsmonitor-docs.html  
-
-#### 🇪🇺 EU Parliament Monitor
-
-European Parliament Intelligence Platform with automated multi-language news generation covering plenary sessions, committee reports, propositions, and breaking news in 14 languages.
-
-- 📂 **Repository:** https://github.com/Hack23/euparliamentmonitor  
-- ⭐ **Features:** https://hack23.com/euparliamentmonitor-features.html  
-- 📚 **Documentation:** https://hack23.com/euparliamentmonitor-docs.html  
-
-#### 🔌 European Parliament MCP Server
-
-Model Context Protocol Server for European Parliament Open Data — providing AI assistants with structured access to MEPs, plenary sessions, committees, legislative documents, and parliamentary questions.
-
-- 📂 **Repository:** https://github.com/Hack23/European-Parliament-MCP-Server  
-- ⭐ **Features:** https://hack23.com/european-parliament-mcp-features.html  
-- 📚 **Documentation:** https://hack23.com/european-parliament-mcp-docs.html  
-- 📦 **npm:** https://www.npmjs.com/package/european-parliament-mcp-server  
-
-#### 🎮 Game Template
-
-Secure game development template with React, TypeScript, Three.js, and Vite - built with security-first principles, comprehensive SBOM generation, and automated security testing aligned with Hack23 AB's ISMS.
-
-- 📂 **Repository:** https://github.com/Hack23/game  
-- 🔒 **Security Features:** https://github.com/Hack23/game#-security-features  
-- 📋 **ISMS Policy Mapping:** https://github.com/Hack23/game/blob/master/docs/ISMS_POLICY_MAPPING.md  
+| Project / Topic | Repository | Live / Hosted | Features | Docs |
+|:----------------|:----------:|:-------------:|:--------:|:----:|
+| 🔒 **Hack23 AB** | — | [hack23.com](https://hack23.com) | [Services](https://hack23.com/services.html) · [About](https://hack23.com/about.html) · [Press](https://hack23.com/press.html) · [Contact](https://hack23.com/contact.html) | [Blog](https://hack23.com/blog.html) · [Sitemap](https://hack23.com/sitemap.html) |
+| 🛡️ **Public ISMS** | [ISMS-PUBLIC](https://github.com/Hack23/ISMS-PUBLIC) | — | [38 policies](https://github.com/Hack23/ISMS-PUBLIC#-policies) | [README](https://github.com/Hack23/ISMS-PUBLIC#readme) |
+| 🗳️ **Riksdagsmonitor** | [riksdagsmonitor](https://github.com/Hack23/riksdagsmonitor) | [riksdagsmonitor.com](https://riksdagsmonitor.com) | [Features](https://hack23.com/riksdagsmonitor-features.html) | [Docs](https://hack23.com/riksdagsmonitor-docs.html) · [PI Hub](https://riksdagsmonitor.com/political-intelligence.html) |
+| 🇪🇺 **EU Parliament Monitor** | [euparliamentmonitor](https://github.com/Hack23/euparliamentmonitor) | [euparliamentmonitor.com](https://euparliamentmonitor.com) | [Features](https://hack23.com/euparliamentmonitor-features.html) | [Docs](https://hack23.com/euparliamentmonitor-docs.html) · [PI Hub](https://euparliamentmonitor.com/political-intelligence.html) |
+| 🔌 **EP MCP Server** | [European-Parliament-MCP-Server](https://github.com/Hack23/European-Parliament-MCP-Server) | [npm](https://www.npmjs.com/package/european-parliament-mcp-server) · [Portal](https://hack23.github.io/European-Parliament-MCP-Server/) | [Features](https://hack23.com/european-parliament-mcp-features.html) | [Docs](https://hack23.com/european-parliament-mcp-docs.html) |
+| 🕵️ **Citizen Intelligence Agency** | [cia](https://github.com/Hack23/cia) | [hack23.github.io/cia](https://hack23.github.io/cia/) | [Features](https://hack23.com/cia-features.html) | [Docs](https://hack23.com/cia-docs.html) |
+| 📋 **CIA Compliance Manager** | [cia-compliance-manager](https://github.com/Hack23/cia-compliance-manager) | [ciacompliancemanager.com](https://ciacompliancemanager.com) | [Features](https://hack23.com/cia-compliance-manager-features.html) | [Docs](https://hack23.com/cia-compliance-manager-docs.html) · [API](https://ciacompliancemanager.com/docs/api/) |
+| 🥋 **Black Trigram** | [blacktrigram](https://github.com/Hack23/blacktrigram) | [blacktrigram.com](https://blacktrigram.com) | [Features](https://hack23.com/black-trigram-features.html) | [Docs](https://hack23.com/black-trigram-docs.html) · [API](https://hack23.github.io/blacktrigram/) |
+| 🎮 **Game Template** | [game](https://github.com/Hack23/game) | — | [README](https://github.com/Hack23/game#readme) | [ISMS Mapping](https://github.com/Hack23/game/blob/master/docs/ISMS_POLICY_MAPPING.md) |
+| ☁️ **Lambda in Private VPC** | [aws-lambda-private-vpc](https://github.com/Hack23/aws-lambda-private-vpc) | — | [Tutorial](https://hack23.com/blog.html) | [README](https://github.com/Hack23/aws-lambda-private-vpc#readme) |
+| 🧪 **Sonar CFN Plugin** | [sonar-cloudformation-plugin](https://github.com/Hack23/sonar-cloudformation-plugin) | [SonarCloud](https://sonarcloud.io/organizations/hack23/projects) | [README](https://github.com/Hack23/sonar-cloudformation-plugin#readme) | — |
+| 🎙️ **Talks** | [talks](https://github.com/Hack23/talks) | — | [Slides](https://github.com/Hack23/talks#talks) | — |
+| 🍎 **Discordian Blog** | — | [hack23.com/blog.html](https://hack23.com/blog.html) | [Manifesto](https://hack23.com/manifesto.html) | — |
 
 ---
 
-### 🍎 Discordian Cybersecurity Blog & Insights
+## 🤝 Get in Touch
 
-All blog content is centrally indexed here:
+<p>
+  <a href="https://hack23.com/contact.html"><img src="https://img.shields.io/badge/📨_Contact-hack23.com%2Fcontact-00cc66?style=for-the-badge" alt="Contact Hack23 AB"/></a>
+  <a href="mailto:info@hack23.com"><img src="https://img.shields.io/badge/✉️_Email-info%40hack23.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hack23 AB at info@hack23.com"/></a>
+  <a href="https://www.linkedin.com/in/jamessorling/"><img src="https://img.shields.io/badge/LinkedIn-jamessorling-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="James Pether Sörling on LinkedIn"/></a>
+  <a href="https://github.com/sponsors/Hack23"><img src="https://img.shields.io/badge/💖_Sponsor-Hack23-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Hack23 AB on GitHub Sponsors"/></a>
+</p>
 
-- 📚 **All Blog Posts:** https://hack23.com/blog.html  
-
-The blog blends **ISMS-aligned policies** with a **Discordian, Illuminatus!-style narrative**, making complex security concepts accessible while still professionally mapped to the public ISMS.
-
-#### 🎭 Core Manifesto & Philosophy
-
-- 🎭 **Discordian Cybersecurity Manifesto:**  
-  https://hack23.com/discordian-cybersecurity.html  
-
-Representative themes (see `blog.html` for the full list and latest updates):
-
-- 🧠 **Everything You Know About Security Is a Lie**  
-- 🏛️ **The Security-Industrial Complex**  
-- 🔒 **Question Authority: Crypto Approved By Spies**  
-- 🏷️ **Think For Yourself: Classification & Data Handling**  
-
-#### 🏛️ CIA Project Series
-
-Architecture, security, and financial/operational views of the **Citizen Intelligence Agency** platform:
-
-- 🏗️ **CIA Architecture:** https://hack23.com/blog-cia-architecture.html  
-- 🛡️ **CIA Security (Defense Through Transparency):**  
-  https://hack23.com/blog-cia-security.html  
-- 🔄 **CIA Workflows (CI/CD & State Machines):**  
-  https://hack23.com/blog-cia-workflows.html  
-- 🧠 **CIA Mindmaps (Conceptual Sacred Geometry):**  
-  https://hack23.com/blog-cia-mindmaps.html  
-- 🔍 **CIA OSINT Intelligence:**  
-  https://hack23.com/blog-cia-osint-intelligence.html  
-- 🔮 **CIA Future Security (Post-quantum & AI):**  
-  https://hack23.com/blog-cia-future-security.html  
-- 💰 **CIA Financial Strategy – “$24.70/Day Democracy”:**  
-  https://hack23.com/blog-cia-financial-strategy.html  
-- 🌍 **CIA Business Case – Global News:**  
-  https://hack23.com/blog-cia-business-case-global-news.html  
-- 📰 **CIA Swedish Media Election 2026:**  
-  https://hack23.com/blog-cia-swedish-media-election-2026.html  
-- 📢 **CIA Alternative Media Discordian 2026:**  
-  https://hack23.com/blog-cia-alternative-media-discordian-2026.html  
-
-#### 🎮 Black Trigram Series
-
-Deep dives into the **architecture, biomechanics, and future roadmap** of Black Trigram:
-
-- 🏗️ **Architecture:** https://hack23.com/blog-trigram-architecture.html  
-- 🥋 **Combat & Vital Points:**  
-  https://hack23.com/blog-trigram-combat.html  
-- 🔮 **Future (VR & Immersive Training):**  
-  https://hack23.com/blog-trigram-future.html  
-
-#### 📋 Compliance Manager Series
-
-Applies the **CIA triad, STRIDE, and adaptive defense** to real-world compliance tooling:
-
-- 🏗️ **Compliance Architecture:**  
-  https://hack23.com/blog-compliance-architecture.html  
-- 🛡️ **Compliance Security (STRIDE Through Five Dimensions):**  
-  https://hack23.com/blog-compliance-security.html  
-- 🔮 **Compliance Future (Context-Aware Defense):**  
-  https://hack23.com/blog-compliance-future.html  
-
-#### 🧪 Code Analysis: “George Dorn” Series
-
-Evidence-based code reviews based on the **actual cloned repositories**, not just documentation:
-
-- 📊 **CIA Code Analysis:**  
-  https://hack23.com/blog-george-dorn-cia-code.html  
-- 📊 **Compliance Manager Code Analysis:**  
-  https://hack23.com/blog-george-dorn-compliance-code.html  
-- 📊 **Black Trigram Code Analysis:**  
-  https://hack23.com/blog-george-dorn-trigram-code.html  
-
-#### 🧠 Thought Leadership & Election Analysis
-
-- 🧬 **Automated Convergence (Security, Cloud, DevSecOps):**  
-  https://hack23.com/blog-automated-convergence.html  
-- 🧠 **Information Hoarding Destroys Data Integrity:**  
-  https://hack23.com/blog-information-hoarding.html  
-- 🛡️ **Public ISMS Benefits:**  
-  https://hack23.com/blog-public-isms-benefits.html  
-- 🗳️ **Swedish Election 2026 – Data-Driven Analysis:**  
-  https://hack23.com/swedish-election-2026.html  
-
-For the **full and current list of posts**, see:  
-👉 https://hack23.com/blog.html  
+- 🔐 **Cybersecurity consulting**: <https://hack23.com/contact.html>
+- 🛡️ **ISMS questions**: open an issue on [`Hack23/ISMS-PUBLIC`](https://github.com/Hack23/ISMS-PUBLIC/issues)
+- 🐛 **Vulnerability disclosure**: see each repo's `SECURITY.md` (or [`Hack23/.github/SECURITY_ARCHITECTURE.md`](https://github.com/Hack23/.github/blob/main/SECURITY_ARCHITECTURE.md))
+- 💖 **Sponsor**: <https://github.com/sponsors/Hack23>
 
 ---
 
-### 🛡️ ISMS & Security Policies (Public ISMS)
+<p align="center">
+  <em>"Security is transparency in action. Democracy is transparency at scale. Hack23 is both — in code." 🍎</em>
+</p>
 
-The “Discordian” documents on hack23.com mirror and explain the **formal ISMS-PUBLIC repository** in a more narrative, accessible style.  
-Key entry points:
-
-- 🔐 **Information Security Policy:**  
-  https://hack23.com/discordian-info-sec-policy.html  
-- 🌐 **ISMS Transparency (What is Public vs. Redacted):**  
-  https://hack23.com/discordian-isms-transparency.html  
-- 🔄 **ISMS Review & Continuous Improvement:**  
-  https://hack23.com/discordian-isms-review.html  
-- 📋 **Compliance Overview:**  
-  https://hack23.com/discordian-compliance.html  
-- 🧭 **Compliance Frameworks (ISO 27001, NIST, CIS, etc.):**  
-  https://hack23.com/discordian-compliance-frameworks.html  
-
-Representative domains (see [`sitemap.html`](https://hack23.com/sitemap.html) for the complete tree):
-
-- 📉 **Risk Management:**  
-  https://hack23.com/discordian-risk-assessment.html  
-  https://hack23.com/discordian-risk-register.html  
-  https://hack23.com/discordian-threat-modeling.html  
-
-- 🔑 **Access & Identity:**  
-  https://hack23.com/discordian-access-control.html  
-  https://hack23.com/discordian-remote-access.html  
-  https://hack23.com/discordian-acceptable-use.html  
-
-- 🏷️ **Data Protection & Classification:**  
-  https://hack23.com/discordian-data-protection.html  
-  https://hack23.com/discordian-data-classification.html  
-  https://hack23.com/discordian-classification.html  
-  https://hack23.com/discordian-privacy.html  
-  https://hack23.com/discordian-crypto.html  
-
-- 🌐 **Technical Security:**  
-  https://hack23.com/discordian-network-security.html  
-  https://hack23.com/discordian-cloud-security.html  
-  https://hack23.com/discordian-email-security.html  
-  https://hack23.com/discordian-mobile-device.html  
-  https://hack23.com/discordian-vuln-mgmt.html  
-
-- 🛠️ **Development & AI:**  
-  https://hack23.com/discordian-secure-dev.html  
-  https://hack23.com/discordian-ai-policy.html  
-  https://hack23.com/discordian-llm-security.html  
-  https://hack23.com/discordian-open-source.html  
-
-- ⚙️ **Operations:**  
-  https://hack23.com/discordian-change-mgmt.html  
-  https://hack23.com/discordian-asset-mgmt.html  
-  https://hack23.com/discordian-monitoring-logging.html  
-  https://hack23.com/discordian-backup-recovery.html  
-
-- 🔄 **Business Continuity & Incident Response:**  
-  https://hack23.com/discordian-business-continuity.html  
-  https://hack23.com/discordian-disaster-recovery.html  
-  https://hack23.com/discordian-incident-response.html  
-
-- 🏛️ **Governance & Stakeholders:**  
-  https://hack23.com/discordian-security-strategy.html  
-  https://hack23.com/discordian-security-metrics.html  
-  https://hack23.com/discordian-security-training.html  
-  https://hack23.com/discordian-stakeholders.html  
-  https://hack23.com/discordian-business-value.html  
-
-- 🤝 **Third Party & Supply Chain:**  
-  https://hack23.com/discordian-third-party.html  
-  https://hack23.com/discordian-supplier-reality.html  
-
-- 🏢 **Physical & Facilities:**  
-  https://hack23.com/discordian-physical-security.html  
-
-- ⚖️ **Regulatory (e.g., EU Cyber Resilience Act):**  
-  https://hack23.com/discordian-cra.html  
-  https://hack23.com/discordian-cra-conformity.html  
-
-For the **canonical policy set and machine-verifiable versions**, see the public ISMS repository:  
-🔓 https://github.com/Hack23/ISMS-PUBLIC  
-
----
-
-### 🌐 Languages (Internationalization)
-
-Hack23.com supports multiple languages, following the `_sv` / `_ko` conventions and language-specific sitemap pages.
-
-#### 🇬🇧 English (default)
-
-- 🗺️ **Sitemap (EN):** https://hack23.com/sitemap.html  
-
-#### 🇸🇪 Swedish
-
-- 🏠 **Homepage (SV):** https://hack23.com/index_sv.html  
-- 🗺️ **Sitemap (SV):** https://hack23.com/sitemap_sv.html  
-- 🔑 **Services (SV):** https://hack23.com/services_sv.html  
-- 🧭 **Why Hack23 (SV):** https://hack23.com/why-hack23_sv.html  
-- 🔐 **CIA Triad FAQ (SV):** https://hack23.com/cia-triad-faq_sv.html  
-- 🏛️ **CIA Features / Docs (SV):**  
-  https://hack23.com/cia-features_sv.html  
-  https://hack23.com/cia-docs_sv.html  
-- 📋 **CIA Compliance Manager Features / Docs (SV):**  
-  https://hack23.com/cia-compliance-manager-features_sv.html  
-  https://hack23.com/cia-compliance-manager-docs_sv.html  
-- 📚 **Selected Blog Translations (SV):**  
-  https://hack23.com/blog-public-isms-benefits_sv.html  
-  https://hack23.com/blog-cia-swedish-media-election-2026_sv.html  
-  https://hack23.com/swedish-election-2026_sv.html  
-
-#### 🇰🇷 Korean
-
-- 🏠 **Homepage (KO):** https://hack23.com/index_ko.html  
-- 🗺️ **Sitemap (KO):** https://hack23.com/sitemap_ko.html  
-- 🔑 **Services (KO):** https://hack23.com/services_ko.html  
-- 🎮 **Black Trigram Features / Docs (KO):**  
-  https://hack23.com/black-trigram-features_ko.html  
-  https://hack23.com/black-trigram-docs_ko.html  
-
-#### 🇳🇱 Dutch
-
-- 🗺️ **Sitemap (NL):** https://hack23.com/sitemap_nl.html  
-
-#### 🇩🇪 German
-
-- 🗺️ **Sitemap (DE):** https://hack23.com/sitemap_de.html  
-
-#### 🇫🇷 French
-
-- 🗺️ **Sitemap (FR):** https://hack23.com/sitemap_fr.html  
-
-#### 🇯🇵 Japanese
-
-- 🗺️ **Sitemap (JA):** https://hack23.com/sitemap_ja.html  
-
-#### 🇨🇳 Chinese
-
-- 🗺️ **Sitemap (ZH):** https://hack23.com/sitemap_zh.html  
-
----
-
-### 🔧 Technical Resources
-
-Technical endpoints and repositories powering the public site:
-
-- 🗺️ **XML Sitemap (for crawlers):** https://hack23.com/sitemap.xml  
-- 🤖 **robots.txt:** https://hack23.com/robots.txt  
-
-**GitHub Repositories:**
-
-- 🔓 **Public ISMS:** https://github.com/Hack23/ISMS-PUBLIC  
-- 🖥️ **Homepage Source:** https://github.com/Hack23/homepage  
-- 🇪🇺 **EU Parliament Monitor:** https://github.com/Hack23/euparliamentmonitor  
-- 🔌 **European Parliament MCP Server:** https://github.com/Hack23/European-Parliament-MCP-Server  
+<p align="center">
+  © 2008–2026 <strong>Hack23 AB</strong> (Org.nr 559534-7807, Gothenburg, Sweden) · <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md">Apache License 2.0</a> · <a href="https://github.com/sponsors/Hack23">💖 Sponsor</a>
+</p>
