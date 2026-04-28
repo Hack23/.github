@@ -1,0 +1,16 @@
+# SPDX-FileCopyrightText: 2024-2026 Hack23 AB
+# SPDX-License-Identifier: Apache-2.0
+#
+# Default GitHub Sponsors / funding configuration for the Hack23 organisation.
+# This file lives in the org-level `.github` repository, so every Hack23
+# repository that does NOT override `.github/FUNDING.yml` inherits the
+# Sponsor button below.
+#
+# Help us keep our public ISMS, civic-tech platforms (Citizen Intelligence
+# Agency, Riksdagsmonitor, EU Parliament Monitor, European Parliament MCP
+# Server, CIA Compliance Manager, Black Trigram), and Discordian
+# cybersecurity blog independent, non-partisan, ad-free and Apache-2.0.
+#
+#   👉  https://github.com/sponsors/Hack23
+#
+github: [Hack23]
