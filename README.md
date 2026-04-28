@@ -20,9 +20,9 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Owner-CEO-0A66C2?style=flat-square" alt="Owner: CEO"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Classification-Public-success?style=flat-square" alt="Classification: Public"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Review-Annual-orange?style=flat-square" alt="Review cycle: Annual"/></a>
+  <img src="https://img.shields.io/badge/Owner-CEO-0A66C2?style=flat-square" alt="Owner: CEO"/>
+  <img src="https://img.shields.io/badge/Classification-Public-success?style=flat-square" alt="Classification: Public"/>
+  <img src="https://img.shields.io/badge/Review-Annual-orange?style=flat-square" alt="Review cycle: Annual"/>
   <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md"><img src="https://img.shields.io/badge/ISO_27001-2022-purple?style=flat-square&logo=iso" alt="ISO 27001:2022 aligned"/></a>
   <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md"><img src="https://img.shields.io/badge/NIST_CSF-2.0-orange?style=flat-square&logo=nist" alt="NIST CSF 2.0 aligned"/></a>
   <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md"><img src="https://img.shields.io/badge/CIS_Controls-v8.1-red?style=flat-square&logo=cisecurity" alt="CIS Controls v8.1 aligned"/></a>

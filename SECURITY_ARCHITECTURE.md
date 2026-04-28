@@ -3,7 +3,7 @@
 
 # 🛡️ Security Architecture — `Hack23/.github`
 
-> **Defense-in-depth for a documentation-only repository.** This document follows the pattern established by the [ISMS SECURITY_ARCHITECTURE.md](https://github.com/Hack23/ISMS/blob/main/SECURITY_ARCHITECTURE.md) reference implementation and the [Hack23 Secure Development Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Secure_Development_Policy.md). Because the repository ships no executable code, the security objective is **integrity, authenticity and availability of public-facing documentation**, not application security.
+> **Defense-in-depth for a documentation-only repository.** This document follows the pattern established by the [Hack23 Secure Development Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Secure_Development_Policy.md) and the public [Information Security Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md). Because the repository ships no executable code, the security objective is **integrity, authenticity and availability of public-facing documentation**, not application security.
 
 | Property | Value |
 |:---------|:------|
@@ -52,7 +52,7 @@ graph TB
         C5[CODEOWNERS for sensitive paths]
     end
     subgraph L4["🔍 Layer 4 — Continuous Verification"]
-        D1[Dependabot — even Markdown deps]
+        D1[Dependabot — auto-enabled if a manifest is added (e.g. GitHub Actions)]
         D2[Secret scanning + push protection]
         D3[GitHub audit log — org-wide]
         D4[OpenSSF Scorecard — public]
